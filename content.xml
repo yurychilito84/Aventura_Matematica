@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1793326266231</value>
+    <value>1794189953529</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -324,17 +324,17 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Nombre del recurso</td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Nombre del recurso</span></td>
 <td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;">
-<p><strong>Aventura Matemática: Descifrando las secuencias del campo.</strong></p>
-<p>Pensamiento Variacional en Acción: Estrategia Pedagógica e Interactiva para el Fortalecimiento del Razonamiento Lógico-Matemático en el Contexto Rural de Arbela.</p>
+<p><span style="font-size: 14pt;"><strong>Aventura Matemática: Descifrando las secuencias del campo.</strong></span></p>
+<p><span style="font-size: 14pt;">Pensamiento Variacional en Acción: Estrategia Pedagógica e Interactiva para el Fortalecimiento del Razonamiento Lógico-Matemático en el Contexto Rural de Arbela.</span></p>
 </td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790901479355-8qk56s5w3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Nombre del recurso</td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p><strong>Aventura Matemática: Descifrando las secuencias del campo.</strong></p>\n<p>Pensamiento Variacional en Acción: Estrategia Pedagógica e Interactiva para el Fortalecimiento del Razonamiento Lógico-Matemático en el Contexto Rural de Arbela.</p>\n</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790901479355-8qk56s5w3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Nombre del recurso</span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p><span style=\"font-size: 14pt;\"><strong>Aventura Matemática: Descifrando las secuencias del campo.</strong></span></p>\n<p><span style=\"font-size: 14pt;\">Pensamiento Variacional en Acción: Estrategia Pedagógica e Interactiva para el Fortalecimiento del Razonamiento Lógico-Matemático en el Contexto Rural de Arbela.</span></p>\n</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -434,14 +434,14 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Recurso Gamificado </td>
-<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;">El recurso incorporará una dinámica de juego con retos cortos, personajes, selección de respuestas y retroalimentación inmediata.</td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Recurso Gamificado </span></td>
+<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">El recurso incorporará una dinámica de juego con retos cortos, personajes, selección de respuestas y retroalimentación inmediata.</span></td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8rxyj-zg4anu9mu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Recurso Gamificado </td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">El recurso incorporará una dinámica de juego con retos cortos, personajes, selección de respuestas y retroalimentación inmediata.</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8rxyj-zg4anu9mu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Recurso Gamificado </span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">El recurso incorporará una dinámica de juego con retos cortos, personajes, selección de respuestas y retroalimentación inmediata.</span></td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -541,14 +541,14 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Recurso Educativo Digital  </td>
-<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;">Objeto Virtual de Aprendizaje - OVA actividades interactivas para trabajar las secuencias del campo.</td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Recurso Educativo Digital  </span></td>
+<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Objeto Virtual de Aprendizaje - OVA actividades interactivas para trabajar las secuencias del campo.</span></td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8u8xt-bdejhegpo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Recurso Educativo Digital  </td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">Objeto Virtual de Aprendizaje - OVA actividades interactivas para trabajar las secuencias del campo.</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8u8xt-bdejhegpo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Recurso Educativo Digital  </span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Objeto Virtual de Aprendizaje - OVA actividades interactivas para trabajar las secuencias del campo.</span></td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -648,15 +648,15 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Problema que busca solucionar </td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Problema que busca solucionar </span></td>
 <td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;">
-<p>El recurso atiende a los hallazgos del diagnóstico en la I.E. Santa Rosa de Lima (Grado Quinto): </p>
+<p><span style="font-size: 14pt;">El recurso atiende a los hallazgos del diagnóstico en la I.E. Santa Rosa de Lima (Grado Quinto): </span></p>
 <ul>
-<li>Solo el 21.4% de los estudiantes identificó patrones geométricos complejos (secuencia 2 - 4 - 8 - 16), presentando el 42.9% un obstáculo epistemológico aditivo. </li>
+<li><span style="font-size: 14pt;">Solo el 21.4% de los estudiantes identificó patrones geométricos complejos (secuencia 2 - 4 - 8 - 16), presentando el 42.9% un obstáculo epistemológico aditivo. </span></li>
 </ul>
-<p></p>
+<p><br /></p>
 <ul>
-<li>La competencia matemática obtuvo el promedio más bajo (2.64 / 4.0; 66.07%) y alta dispersión, situando al 35.7% de los estudiantes en nivel bajo.</li>
+<li><span style="font-size: 14pt;">La competencia matemática obtuvo el promedio más bajo (2.64 / 4.0; 66.07%) y alta dispersión, situando al 35.7% de los estudiantes en nivel bajo.</span></li>
 </ul>
 </td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
@@ -664,7 +664,7 @@
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8vbjf-o7d32bxhi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Problema que busca solucionar </td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p>El recurso atiende a los hallazgos del diagnóstico en la I.E. Santa Rosa de Lima (Grado Quinto): </p>\n<ul>\n<li>Solo el 21.4% de los estudiantes identificó patrones geométricos complejos (secuencia 2 - 4 - 8 - 16), presentando el 42.9% un obstáculo epistemológico aditivo. </li>\n</ul>\n<p></p>\n<ul>\n<li>La competencia matemática obtuvo el promedio más bajo (2.64 / 4.0; 66.07%) y alta dispersión, situando al 35.7% de los estudiantes en nivel bajo.</li>\n</ul>\n</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8vbjf-o7d32bxhi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Problema que busca solucionar </span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p><span style=\"font-size: 14pt;\">El recurso atiende a los hallazgos del diagnóstico en la I.E. Santa Rosa de Lima (Grado Quinto): </span></p>\n<ul>\n<li><span style=\"font-size: 14pt;\">Solo el 21.4% de los estudiantes identificó patrones geométricos complejos (secuencia 2 - 4 - 8 - 16), presentando el 42.9% un obstáculo epistemológico aditivo. </span></li>\n</ul>\n<p><br /></p>\n<ul>\n<li><span style=\"font-size: 14pt;\">La competencia matemática obtuvo el promedio más bajo (2.64 / 4.0; 66.07%) y alta dispersión, situando al 35.7% de los estudiantes en nivel bajo.</span></li>\n</ul>\n</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -764,14 +764,14 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Propósito del Recurso</td>
-<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;">Implementar un Objeto Virtual de Aprendizaje (OVA) y un juego interactivo gamificado en Genially/Forms orientado al pensamiento variacional, fortaleciendo el razonamiento cuantitativo mediante la identificación de patrones, secuencias y regularidades numéricas.</td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Propósito del Recurso</span></td>
+<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Implementar un Objeto Virtual de Aprendizaje (OVA) y un juego interactivo gamificado en Genially/Forms orientado al pensamiento variacional, fortaleciendo el razonamiento cuantitativo mediante la identificación de patrones, secuencias y regularidades numéricas.</span></td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8wbak-63i0ajfso","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Propósito del Recurso</td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">Implementar un Objeto Virtual de Aprendizaje (OVA) y un juego interactivo gamificado en Genially/Forms orientado al pensamiento variacional, fortaleciendo el razonamiento cuantitativo mediante la identificación de patrones, secuencias y regularidades numéricas.</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8wbak-63i0ajfso","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Propósito del Recurso</span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Implementar un Objeto Virtual de Aprendizaje (OVA) y un juego interactivo gamificado en Genially/Forms orientado al pensamiento variacional, fortaleciendo el razonamiento cuantitativo mediante la identificación de patrones, secuencias y regularidades numéricas.</span></td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -871,14 +871,14 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Objetivo de aprendizaje del Recurso </td>
-<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;">Fortalecer la competencia cognitiva/matemática, con énfasis en el pensamiento lógico-variacional y la abstracción de patrones numéricos, mediante el uso de herramientas digitales interactivas adaptadas al entorno y al modelo Conectivista/M-Learning.</td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Objetivo de aprendizaje del Recurso </span></td>
+<td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><span style="font-size: 14pt;">Fortalecer la competencia cognitiva/matemática, con énfasis en el pensamiento lógico-variacional y la abstracción de patrones numéricos, mediante el uso de herramientas digitales interactivas adaptadas al entorno y al modelo Conectivista/M-Learning.</span></td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8xd9v-v83r5lgn9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Objetivo de aprendizaje del Recurso </td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\">Fortalecer la competencia cognitiva/matemática, con énfasis en el pensamiento lógico-variacional y la abstracción de patrones numéricos, mediante el uso de herramientas digitales interactivas adaptadas al entorno y al modelo Conectivista/M-Learning.</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muq8xd9v-v83r5lgn9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Objetivo de aprendizaje del Recurso </span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><span style=\"font-size: 14pt;\">Fortalecer la competencia cognitiva/matemática, con énfasis en el pensamiento lógico-variacional y la abstracción de patrones numéricos, mediante el uso de herramientas digitales interactivas adaptadas al entorno y al modelo Conectivista/M-Learning.</span></td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1009,16 +1009,16 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <div class="exe-fx exe-tabs">
-<h2>Área/Contenidos</h2>
-<p>Pensamiento Variacional y Sistemas Algebraicos y Analíticos (Matemáticas). </p>
-<h2>Temáticas</h2>
-<p>Secuencias numéricas aditivas y multiplicativas, patrones geométricos, relaciones de variación/cambio, tabulación de datos y deducción de reglas. </p>
-<h2>DBA Asociados</h2>
-<p>DBA 1 y DBA 5 de Grado 5°.</p>
+<h2><span style="font-size: 18pt;">Área/Contenidos</span></h2>
+<p><span style="font-size: 14pt;">Pensamiento Variacional y Sistemas Algebraicos y Analíticos (Matemáticas). </span></p>
+<h2><span style="font-size: 18pt;">Temáticas</span></h2>
+<p><span style="font-size: 14pt;">Secuencias numéricas aditivas y multiplicativas, patrones geométricos, relaciones de variación/cambio, tabulación de datos y deducción de reglas. </span></p>
+<h2><span style="font-size: 18pt;">DBA Asociados</span></h2>
+<p><span style="font-size: 14pt;">DBA 1 y DBA 5 de Grado 5°.</span></p>
 </div>
 <p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790902267330-mqnv15lp4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Área/Contenidos</h2>\n<p>Pensamiento Variacional y Sistemas Algebraicos y Analíticos (Matemáticas). </p>\n<h2>Temáticas</h2>\n<p>Secuencias numéricas aditivas y multiplicativas, patrones geométricos, relaciones de variación/cambio, tabulación de datos y deducción de reglas. </p>\n<h2>DBA Asociados</h2>\n<p>DBA 1 y DBA 5 de Grado 5°.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790902267330-mqnv15lp4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2><span style=\"font-size: 18pt;\">Área/Contenidos</span></h2>\n<p><span style=\"font-size: 14pt;\">Pensamiento Variacional y Sistemas Algebraicos y Analíticos (Matemáticas). </span></p>\n<h2><span style=\"font-size: 18pt;\">Temáticas</span></h2>\n<p><span style=\"font-size: 14pt;\">Secuencias numéricas aditivas y multiplicativas, patrones geométricos, relaciones de variación/cambio, tabulación de datos y deducción de reglas. </span></p>\n<h2><span style=\"font-size: 18pt;\">DBA Asociados</span></h2>\n<p><span style=\"font-size: 14pt;\">DBA 1 y DBA 5 de Grado 5°.</span></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1118,12 +1118,12 @@
 <td style="width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 21.6777%; border-color: #3598db; border-style: solid;">Propuesta de recursos multimedia (videos, imágenes, audios, entre otras)</td>
+<td style="width: 21.6777%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Propuesta de recursos multimedia (videos, imágenes, audios, entre otras)</span></td>
 <td style="width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;">
-<p>Elementos interactivos en Genially y Google Forms: </p>
+<p><span style="font-size: 14pt;">Elementos interactivos en Genially y Google Forms: </span></p>
 <ul>
-<li>Narrativa gamificada ("Misión Guardianes del Razonamiento Matemático"). </li>
-<li>Botones interactivos clickeables, imágenes contextualizadas del entorno rural/agrícola, GIFS animados y cuestionarios digitales.</li>
+<li><span style="font-size: 14pt;">Narrativa gamificada ("Misión Guardianes del Razonamiento Matemático"). </span></li>
+<li><span style="font-size: 14pt;">Botones interactivos clickeables, imágenes contextualizadas del entorno rural/agrícola, GIFS animados y cuestionarios digitales.</span></li>
 </ul>
 </td>
 <td style="width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
@@ -1131,7 +1131,7 @@
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqb43wf-999iygw6t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\">Propuesta de recursos multimedia (videos, imágenes, audios, entre otras)</td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p>Elementos interactivos en Genially y Google Forms: </p>\n<ul>\n<li>Narrativa gamificada (\"Misión Guardianes del Razonamiento Matemático\"). </li>\n<li>Botones interactivos clickeables, imágenes contextualizadas del entorno rural/agrícola, GIFS animados y cuestionarios digitales.</li>\n</ul>\n</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqb43wf-999iygw6t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 21.6777%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 34.2368%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 44.0665%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 21.6777%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Propuesta de recursos multimedia (videos, imágenes, audios, entre otras)</span></td>\n<td style=\"width: 34.2368%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p><span style=\"font-size: 14pt;\">Elementos interactivos en Genially y Google Forms: </span></p>\n<ul>\n<li><span style=\"font-size: 14pt;\">Narrativa gamificada (\"Misión Guardianes del Razonamiento Matemático\"). </span></li>\n<li><span style=\"font-size: 14pt;\">Botones interactivos clickeables, imágenes contextualizadas del entorno rural/agrícola, GIFS animados y cuestionarios digitales.</span></li>\n</ul>\n</td>\n<td style=\"width: 44.0665%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1231,16 +1231,16 @@
 <td style="width: 29.1149%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;"><span style="font-size: 18pt;"><strong><span style="color: #ecf0f1;">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>
 </tr>
 <tr>
-<td style="width: 13.7883%; border-color: #3598db; border-style: solid;">Estrategia de Aprendizaje</td>
+<td style="width: 13.7883%; border-color: #3598db; border-style: solid;"><span style="font-size: 14pt;">Estrategia de Aprendizaje</span></td>
 <td style="width: 57.0955%; text-align: justify; border-color: #3598db; border-style: solid;">
-<p>Gamificación, M-Learning y Conectivismo articulados en el Aula STEAM / Sala de Informática.</p>
+<p><span style="font-size: 14pt;">Gamificación, M-Learning y Conectivismo articulados en el Aula STEAM / Sala de Informática.</span></p>
 </td>
 <td style="width: 29.1149%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;"><br /></td>
 </tr>
 </tbody>
 </table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqb6wa0-y1qm5so2b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 13.7883%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 57.0955%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 29.1149%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 13.7883%; border-color: #3598db; border-style: solid;\">Estrategia de Aprendizaje</td>\n<td style=\"width: 57.0955%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p>Gamificación, M-Learning y Conectivismo articulados en el Aula STEAM / Sala de Informática.</p>\n</td>\n<td style=\"width: 29.1149%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqb6wa0-y1qm5so2b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" height=\"217\" style=\"width: 99.8383%; height: 217px; background-color: #c2e0f4; border-color: #3598db; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 13.7883%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Nombre del Item</span></strong></span></td>\n<td style=\"width: 57.0955%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Descripción</span></strong></span></td>\n<td style=\"width: 29.1149%; text-align: center; background-color: #3598db; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 18pt;\"><strong><span style=\"color: #ecf0f1;\">Chequeo /observaciones docentes LabINNOVA</span></strong></span></td>\n</tr>\n<tr>\n<td style=\"width: 13.7883%; border-color: #3598db; border-style: solid;\"><span style=\"font-size: 14pt;\">Estrategia de Aprendizaje</span></td>\n<td style=\"width: 57.0955%; text-align: justify; border-color: #3598db; border-style: solid;\">\n<p><span style=\"font-size: 14pt;\">Gamificación, M-Learning y Conectivismo articulados en el Aula STEAM / Sala de Informática.</span></p>\n</td>\n<td style=\"width: 29.1149%; text-align: justify; border-color: #3598db; border-style: solid; padding-left: 40px;\"><br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1302,12 +1302,12 @@
 <odeNavStructure>
   <odePageId>page-murjl14p-rtaesvjk2</odePageId>
   <odeParentPageId>page-murjgi3p-mpwnp1542</odeParentPageId>
-  <pageName>Retos, juegos y preguntas</pageName>
+  <pageName>🎮 Retos, juegos y preguntas</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Retos, juegos y preguntas</value>
+      <value>🎮 Retos, juegos y preguntas</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -1331,7 +1331,7 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>🎮 Retos, juegos y preguntas</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -1339,7 +1339,7 @@
       <odePageId>page-murjl14p-rtaesvjk2</odePageId>
       <odeBlockId>block-murjlc6u-uiciaxn5q</odeBlockId>
       <blockName></blockName>
-      <iconName>mi-motion_play</iconName>
+      <iconName>mi-stadia_controller</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1370,432 +1370,36 @@
           <odeIdeviceId>idevice-murjlc6v-yt4r13zxz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><strong>Retos, juegos, preguntas, entre otras</strong></p>
+    <p style="text-align: justify;"><span style="font-size: 14pt;">Las cuatro estrategias propuestas buscan fortalecer el pensamiento variacional y el razonamiento lógico-matemático de los estudiantes de grado quinto de la I.E. Santa Rosa de Lima mediante actividades contextualizadas, prácticas y participativas.</span></p>
 <p><br /></p>
-<ul></ul>
-<style>
-/* CONTENEDOR GENERAL */
-.estrategias {
-  font-family: Arial, sans-serif;
-  color: #263238;
-  margin: 15px 0;
-}
-
-.estrategias input {
-  display: none;
-}
-
-/* PESTAÑAS PRINCIPALES */
-.estrategias .tabs-principales {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  border-bottom: 3px solid #2879a8;
-}
-
-.estrategias .tabs-principales label {
-  flex: 1 1 130px;
-  text-align: center;
-  padding: 14px 8px;
-  background: #e6edf3;
-  color: #23445b;
-  border-radius: 7px 7px 0 0;
-  cursor: pointer;
-  font-weight: bold;
-}
-
-#e1:checked ~ .tabs-principales label[for="e1"],
-#e2:checked ~ .tabs-principales label[for="e2"],
-#e3:checked ~ .tabs-principales label[for="e3"],
-#e4:checked ~ .tabs-principales label[for="e4"] {
-  background: #2879a8;
-  color: white;
-}
-
-/* CONTENIDOS PRINCIPALES */
-.estrategias .panel-estrategia {
-  display: none;
-  padding: 20px;
-  border: 1px solid #d5dfe6;
-  background: white;
-}
-
-#e1:checked ~ #panel-e1,
-#e2:checked ~ #panel-e2,
-#e3:checked ~ #panel-e3,
-#e4:checked ~ #panel-e4 {
-  display: block;
-}
-
-/* SUBPESTAÑAS */
-.estrategias .tabs-momentos {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  border-bottom: 2px solid #37875c;
-  margin-top: 15px;
-}
-
-.estrategias .tabs-momentos label {
-  flex: 1 1 150px;
-  text-align: center;
-  padding: 12px 8px;
-  background: #e8f2eb;
-  color: #285b3c;
-  cursor: pointer;
-  border-radius: 6px 6px 0 0;
-  font-weight: bold;
-  font-size: 14px;
-}
-
-/* COLORES DE MOMENTOS ACTIVOS */
-#e1i:checked ~ .tabs-momentos label[for="e1i"],
-#e1d:checked ~ .tabs-momentos label[for="e1d"],
-#e1c:checked ~ .tabs-momentos label[for="e1c"],
-#e2i:checked ~ .tabs-momentos label[for="e2i"],
-#e2d:checked ~ .tabs-momentos label[for="e2d"],
-#e2c:checked ~ .tabs-momentos label[for="e2c"],
-#e3i:checked ~ .tabs-momentos label[for="e3i"],
-#e3d:checked ~ .tabs-momentos label[for="e3d"],
-#e3c:checked ~ .tabs-momentos label[for="e3c"],
-#e4i:checked ~ .tabs-momentos label[for="e4i"],
-#e4d:checked ~ .tabs-momentos label[for="e4d"],
-#e4c:checked ~ .tabs-momentos label[for="e4c"] {
-  background: #37875c;
-  color: white;
-}
-
-/* CONTENIDOS DE LOS MOMENTOS */
-.estrategias .panel-momento {
-  display: none;
-  padding: 20px;
-  border: 1px solid #d5dfe6;
-  border-top: none;
-  background: #ffffff;
-  border-radius: 0 0 7px 7px;
-  line-height: 1.6;
-}
-
-#e1i:checked ~ #e1-panel-i,
-#e1d:checked ~ #e1-panel-d,
-#e1c:checked ~ #e1-panel-c,
-#e2i:checked ~ #e2-panel-i,
-#e2d:checked ~ #e2-panel-d,
-#e2c:checked ~ #e2-panel-c,
-#e3i:checked ~ #e3-panel-i,
-#e3d:checked ~ #e3-panel-d,
-#e3c:checked ~ #e3-panel-c,
-#e4i:checked ~ #e4-panel-i,
-#e4d:checked ~ #e4-panel-d,
-#e4c:checked ~ #e4-panel-c {
-  display: block;
-}
-
-.estrategias h3 {
-  color: #2879a8;
-}
-
-.estrategias h4 {
-  color: #37875c;
-}
-
-.estrategias .indicacion {
-  background: #f0f5f8;
-  padding: 12px;
-  border-left: 4px solid #2879a8;
-  margin-top: 10px;
-}
-
-@media(max-width:600px) {
-  .estrategias .tabs-principales label,
-  .estrategias .tabs-momentos label {
-    flex: 1 1 100%;
-  }
-}
-</style>
-<div class="estrategias"><!-- NAVEGACIÓN PRINCIPAL --> <input type="radio" name="estrategia" id="e1" checked="checked" /> <input type="radio" name="estrategia" id="e2" /> <input type="radio" name="estrategia" id="e3" /> <input type="radio" name="estrategia" id="e4" />
-<div class="tabs-principales"><label for="e1">Estrategia 1</label> <label for="e2">Estrategia 2</label> <label for="e3">Estrategia 3</label> <label for="e4">Estrategia 4</label></div>
-<!-- ================= ESTRATEGIA 1 ================= -->
-<div class="panel-estrategia" id="panel-e1">
-<h3 style="text-align: center;"><strong>"Sembrando Patrones" (Aprendizaje Basado en Proyectos - ABP y Aula STEAM)</strong></h3>
-<p style="text-align: justify;"><strong></strong><br /></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>1. Sembrando Patrones:</strong> Utiliza semillas, plantas y bloques lógicos para construir secuencias, identificar patrones y reconocer regularidades numéricas mediante la exploración del entorno natural.</span></p>
+<p><br /></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>2. Laboratorio Gamificado y OVA Rural: </strong>Implementa un recurso educativo digital y un juego interactivo en Genially para resolver desafíos de secuencias, patrones y variaciones numéricas, complementados con una autoevaluación en Google Forms.</span></p>
 <ul>
-<li style="text-align: justify;"><strong>Actividades:</strong> Taller vivencial donde los niños observan la germinación de plantas (fríjol/maíz) para explorar el entorno natural y, de manera paralela, utilizan las semillas y bloques lógicos como material concreto para construir y deducir patrones y secuencias matemáticas (por ejemplo, secuencias numéricas y de ordenación), aclarando que se usan como recurso manipulativo de conteo y estructuración matemática sin afirmar que el crecimiento biológico duplica estrictamente su tamaño o número de hojas cada día.</li>
+<li style="text-align: justify;"><span style="font-size: 14pt;"><strong>Juego interactivo: </strong><a href="https://view.genially.com/6ad2af64b1cccafb9e86bcf0" title="" onclick="window.open('https://view.genially.com/6ad2af64b1cccafb9e86bcf0','Juego Interactivo','scrollbars=yes,width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">https://view.genially.com/6ad2af64b1cccafb9e86bcf0</a></span></li>
 </ul>
 <p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Metodología:</strong> ABP articulado al Centro de Interés en Ciencias y Tecnología.</li>
-</ul>
-<p><span style="font-size: 14pt;"><strong>Secuencia Didáctica: "El Secreto de las Semillas y los Números Mágicos"</strong></span></p>
-<input type="radio" name="momentos-e1" id="e1i" checked="checked" /> <input type="radio" name="momentos-e1" id="e1d" /> <input type="radio" name="momentos-e1" id="e1c" />
-<div class="tabs-momentos"><label for="e1i">Momento de Inicio</label> <label for="e1d">Momento de Desarrollo</label> <label for="e1c">Momento de Cierre</label></div>
-<div class="panel-momento" id="e1-panel-i">
-<h4>Momento de Inicio: Exploración y Motivación</h4>
-<p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Activar saberes previos, despertar la curiosidad sobre la naturaleza y conectar a los niños con el reto de construcción de patrones matemáticos a partir de elementos del entorno.</li>
-<li style="text-align: justify;"><strong>Actividades:</strong> 
-<ul>
-<li style="text-align: justify;"><strong>La Caja Misteriosa: </strong>Se presenta una caja con semillas de fríjol y maíz, lupas y una pequeña planta germinada. Se invita a los niños a observar la planta y las semillas con la lupa para reflexionar sobre la diversidad de la naturaleza y cómo cada semilla se transforma de forma única.</li>
-<li style="text-align: justify;"><strong>Planteamiento del Reto (ABP):</strong> Se lanza el desafío del taller: "Hoy seremos científicos y exploradores matemáticos. Observaremos nuestras semillas y plantas, y usaremos las semillas y bloques para construir secuencias y descifrar patrones numéricos que organizaremos en nuestras tablas de trabajo".</li>
-<li style="text-align: justify;"><strong>Sensibilización: </strong>Breve diálogo sobre el cuidado de las plantas, el ciclo natural del cultivo y el uso del material del entorno para aprender matemáticas.</li>
-</ul>
-</li>
-</ul>
-<p><br /></p>
-</div>
-<div class="panel-momento" id="e1-panel-d">
-<h4>Momento de Desarrollo: Experimentación y Construcción del Saber</h4>
-<p style="text-align: justify;"><strong>Propósito:</strong> Manipular material concreto (semillas y bloques) para construir secuencias organizadas, registrar datos e identificar reglas de cambio en secuencias matemáticas propuestas, distinguiendo la exploración biológica del modelado numérico.</p>
-<ul>
-<li style="text-align: justify;"><strong>Actividades:</strong>
-<ul>
-<li style="text-align: justify;"><strong>Estación de Observación y Clasificación: </strong>En pequeños grupos, los estudiantes manipulan germinados y semillas de fríjol y maíz. Observan libremente las diferencias reales entre el germinado y las semillas, registrando cualitativamente sus características (color, forma, textura).</li>
-<li style="text-align: justify;"><strong>Construcción y Modelado de Patrones con Material Concreto: </strong>
-<ul>
-<li style="text-align: justify;">A partir de las semillas y bloques lógicos, el docente propone retos de secuencias numéricas y visuales independientes del ritmo biológico (por ejemplo: patrones aditivos   o juegos de seriación con semillas por color y tamaño).</li>
-<li style="text-align: justify;">Los niños construyen torres con bloques o agrupaciones con semillas para representar visualmente cómo cambia cada figura o número en la secuencia propuesta.</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Registro en la Tabla de Frecuencias/Secuencias:</strong> Con la guía del docente, plasman en una tabla sencilla los datos del patrón numérico construido con las semillas, identificando la regla de cambio o regularidad (por ejemplo: "aumenta de 2 en 2" o "sigue la regla de agregar una semilla más a cada paso").</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="panel-momento" id="e1-panel-c">
-<h4>Momento de Cierre: Reflexión y Socialización</h4>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Consolidar los aprendizajes, compartir los hallazgos de las secuencias construidas entre los equipos y evaluar la comprensión de los patrones matemáticos.</li>
-<li><strong>Actividades:</strong>
-<ul>
-<li><strong>Galería de Científicos y Matemáticos:</strong> Cada grupo expone sus arreglos de semillas, torres de bloques y tablas de registro al resto del salón, explicando la regla del patrón que construyeron y qué observaron en sus semillas.</li>
-<li><strong>Preguntas Metacognitivas:</strong>
-<ul>
-<li>¿Cómo nos ayudaron las semillas y los bloques a armar y entender los patrones numéricos?</li>
-<li>¿Qué diferencia hay entre cómo cambia una secuencia numérica en la mesa y cómo crece realmente una planta en la naturaleza?</li>
-</ul>
-</li>
-<li><strong>Puente hacia la siguiente fase del ABP:</strong> Se define la siguiente acción del proyecto (por ejemplo, continuar con el cuidado de los germinados en el huerto escolar y diseñar nuevas secuencias de patrones para la siguiente sesión).</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<!-- ================= ESTRATEGIA 2 ================= -->
-<div class="panel-estrategia" id="panel-e2">
-<h3>Laboratorio Gamificado y OVA Rural</h3>
-<p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Actividades:</strong> Implementación de un Objeto Virtual de Aprendizaje (OVA) y un juego interactivo en Genially/Forms orientados al pensamiento variacional. </li>
-</ul>
-<p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Metodología:</strong> M-Learning y Conectivismo en la sala de informática. </li>
-</ul>
-<p><span style="font-size: 18pt;"><strong>"El Desafío Digital del Pensamiento Variacional"</strong></span></p>
-<input type="radio" name="momentos-e2" id="e2i" checked="checked" /> <input type="radio" name="momentos-e2" id="e2d" /> <input type="radio" name="momentos-e2" id="e2c" />
-<div class="tabs-momentos"><label for="e2i">Momento de Inicio</label> <label for="e2d">Momento de Desarrollo</label> <label for="e2c">Momento de Cierre</label></div>
-<div class="panel-momento" id="e2-panel-i">
-<h4>Momento de Inicio: Exploración, Motivación y Encuadre Tecnológico</h4>
-<p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Activar la motivación mediante la gamificación, contextualizar la misión en el OVA y garantizar la conectividad/funcionalidad técnica de los dispositivos.</li>
-<li style="text-align: justify;"><strong>Actividades:</strong>
-<ul>
-<li style="text-align: justify;"><strong>Bienvenida al Laboratorio y Contextualización: </strong>Se presenta a los estudiantes la narrativa o historia gamificada del OVA en Genially ("misión Guardianes del razonamiento matemático"). Se plantea el reto central: resolver desafíos numéricos y descubrir patrones de variación para "desbloquear" niveles.</li>
-<li style="text-align: justify;"><strong>Verificación de Dispositivos (M-Learning): </strong>En la sala de informática o mediante dispositivos móviles/tabletas, se verifica el acceso al OVA para asegurar una experiencia fluida.</li>
-<li style="text-align: justify;"><strong>Activación de Saberes Previos: </strong>Mediante una dinámica breve en el OVA o pregunta detonante ("¿Cómo cambian las cosas a nuestro alrededor cuando pasa el tiempo o aumentamos una cantidad?"), los estudiantes recuerdan conceptos de secuencias, patrones y variación.</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="panel-momento" id="e2-panel-d" title="">
-<h4>Momento de Desarrollo: Interacción, Gamificación y Conectivismo</h4>
-<ul>
-<li><strong>Propósito:</strong> Manipular el recurso interactivo, resolver los retos del pensamiento variacional de forma colaborativa y afianzar la lógica de cambio y regularidad.</li>
-</ul>
-<p><strong>Link del juego interactivo</strong></p>
-<p><span style="font-size: 14pt;"><a href="https://view.genially.com/6ad2af64b1cccafb9e86bcf0" target="_blank" rel="noopener"><strong title="">https://view.genially.com/6ad2af64b1cccafb9e86bcf0</strong></a></span></p>
 <div style="width: 100%;">
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0px; left: 0px; width: 867px; height: 485px;" title="Juego_GuardianesDelRazonamientoMatemático" frameborder="0" src="https://view.genially.com/6ad2af64b1cccafb9e86bcf0" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200px" height="675px" style="position: absolute; top: 0px; left: 0px; width: 978px; height: 549px;" title="Juego_GuardianesDelRazonamientoMatemático" frameborder="0" src="https://view.genially.com/6ad2af64b1cccafb9e86bcf0" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all" data-mce-fragment="1"></iframe></div>
 </div>
-<p><strong></strong><br /></p>
-<p><span style="font-size: 14pt;"><strong>Actividades:</strong></span><br /></p>
-<ul>
-<li><strong>Navegación Interactiva por Niveles (OVA en Genially):</strong>
-<ul>
-<li style="text-align: justify;"><strong>Nivel 1 (Identificación): </strong>Los estudiantes exploran secuencias numéricas y geométricas asociadas a contextos rurales o cotidianos.</li>
-<li style="text-align: justify;"><strong>Nivel 2 (Análisis de Variación): </strong>Resuelven problemas donde identifican reglas de cambio (por ejemplo: relaciones de doble, triple o aumentos constantes) interactuando con elementos clickeables y retroalimentación inmediata.</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Trabajo en Nodos Colaborativos (Conectivismo): </strong>Los estudiantes trabajan en parejas o pequeños equipos frente a los equipos de cómputo o tabletas, discutiendo estrategias para resolver los desafíos antes de marcar sus respuestas en los formularios.</li>
-<li style="text-align: justify;"><strong>Comprobación y Registro en Forms:</strong> Al finalizar las rutas del OVA, completan la autoevaluación o cuestionario interactivo (Google Forms para validar el nivel de dominio alcanzado en el pensamiento variacional.</li>
-</ul>
 <p><br /></p>
-<p><span style="font-size: 14pt;"><strong>Link del formulario:</strong></span></p>
-<span style="font-size: 18pt;"><a href="https://forms.gle/3Bs3dYtxw1jEfD3H8" target="_blank" rel="noopener">https://forms.gle/3Bs3dYtxw1jEfD3H8</a></span>
 <p><br /></p>
-<p><a href="https://forms.gle/3Bs3dYtxw1jEfD3H8" target="_blank" title="" rel="noopener"><img src="{{context_path}}/content/resources/mceclip2_1.png" width="627" height="530" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
-</div>
-<div class="panel-momento" id="e2-panel-c">
-<h4>Momento de Cierre: Socialización, Metacognición y Sistematización</h4>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Reflexionar sobre las estrategias matemáticas utilizadas, evaluar el uso de la tecnología y consolidar los aprendizajes del día.</li>
-<li style="text-align: justify;"><strong>Actividades:</strong>
-<ul>
-<li style="text-align: justify;"><strong>Plenaria e Intercambio de Redes: </strong>Se realiza un círculo de diálogo donde los equipos comparten qué estrategias les permitieron superar los niveles del juego interactivo y qué reglas de variación descubrieron.</li>
-<li style="text-align: justify;">Cierre Metacognitivo: Se formulan preguntas clave para movilizar la reflexión:
-<ul>
-<li style="text-align: justify;">¿Qué pistas del OVA les ayudaron a descubrir cómo variaban los números o patrones?</li>
-<li style="text-align: justify;">¿Cómo nos ayudó el juego digital a entender mejor los cambios y secuencias?</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Sistematización:</strong> El docente recopila las respuestas recibidas (o consolida los archivos de registro de Forms) para evidenciar los avances en pensamiento variacional y felicita al grupo por completar con éxito el laboratorio gamificado.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<!-- ================= ESTRATEGIA 3 ================= -->
-<div class="panel-estrategia" id="panel-e3">
-<h3>"Minga Familiar por las Matemáticas" (Ley 2025 de 2020)</h3>
-<ul>
-<li style="text-align: justify;"><strong>Actividades: </strong>Encuentros de la Escuela para Familias centrados en dinámicas cotidianas donde los acudientes acompañen el conteo, estimación y patrones de cosecha en el hogar. </li>
-</ul>
-<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>"Matemáticas en Familia: Cosecha, Conteo y Saberes del Hogar"</strong></span></p>
-<input type="radio" name="momentos-e3" id="e3i" checked="checked" /> <input type="radio" name="momentos-e3" id="e3d" /> <input type="radio" name="momentos-e3" id="e3c" />
-<div class="tabs-momentos"><label for="e3i">Momento de Inicio</label> <label for="e3d">Momento de Desarrollo</label> <label for="e3c">Momento de Cierre</label></div>
-<div class="panel-momento" id="e3-panel-i">
-<h4>Momento de Inicio: Exploración, Acogida y Sensibilización</h4>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Dar la bienvenida a las familias, crear un clima de confianza y reconocer el valor pedagógico de los saberes matemáticos que ya existen en las rutinas del hogar.</li>
-<li style="text-align: justify;"><strong>Actividades:</strong>
-<ul>
-<li style="text-align: justify;"><strong>Dinámica de Acogida – "El Canasto de Recuerdos y Saberes": </strong>Se inicia con una breve dinámicamente participativa donde cada acudiente menciona una actividad cotidiana del hogar o del campo en la que use números, conteos o mediciones (ej.: seleccionar frutas, contar huevos, medir raciones de comida o sembrar).</li>
-<li style="text-align: justify;"><strong>Diálogo Sensibilizador (Alianza Familia-Escuela): </strong>Se conversa sobre cómo las matemáticas no solo están en los cuadernos del colegio, sino en la vida cotidiana. Se proyecta o presenta el propósito del encuentro: Aprender cómo desde la casa podemos potenciar la estimación, el conteo y la identificación de patrones durante las actividades de cosecha o preparación de alimentos.</li>
-<li style="text-align: justify;"><strong>Pregunta Detonante: </strong>"¿Cómo le enseñamos a nuestras hijas e hijos a 'calcular' o 'estimar' cuando estamos haciendo las compras o clasificando la cosecha en casa?"</li>
-</ul>
-</li>
-</ul>
-<p style="text-align: justify;"><br /></p>
-</div>
-<div class="panel-momento" id="e3-panel-d">
-<h4>Momento de Desarrollo: Taller Vivencial y Trabajo Práctico</h4>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Vivenciar estrategias concretas de conteo, estimación y patrones utilizando elementos reales del contexto para que los acudientes las repliquen en sus hogares.</li>
-</ul>
-<p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Actividades: </strong></li>
-<li style="text-align: justify;"><strong>Estación 1: Estimación y Conteo Rápido (Cosecha/Mercado):</strong>
-<ul>
-<li style="text-align: justify;">Se distribuyen canastos o recipientes con productos del entorno (granos de café, maíz, frutas, verduras o semillas).</li>
-<li style="text-align: justify;">Se invita a los acudientes a hacer <strong>estimaciones visuales </strong>("¿Cuántos limones creen que hay aquí sin contarlos uno a uno?"). Luego realizan agrupamientos (de 2 en 2, de 5 en 5 o de 10 en 10) para facilitar el conteo exacto y reflexionar sobre el razonamiento numérico.</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Estación 2: Reconocimiento de Patrones y Clasificación:</strong>
-<ul>
-<li style="text-align: justify;">Con los mismos elementos, se organizan secuencias y patrones (por ejemplo: organizar productos por tamaño, color o peso; o armar secuencias visuales tipo grande-mediano-pequeño).</li>
-<li style="text-align: justify;">Se muestra cómo este ejercicio entrena el <strong>pensamiento variacional</strong> y la lógica en los niños de manera natural mientras ayudan en las labores del hogar.</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Construcción de la "Guía de Rutinas Matemáticas en Casa":</strong> En pequeños grupos, las familias redactan o dibujan ideas sencillas para poner en práctica durante la semana (ej.: contar juntos al desgranar maíz, estimar cuánto pesará un racimo de plátanos, hacer patrones con cubiertos al poner la mesa).</li>
-</ul>
-</div>
-<div class="panel-momento" id="e3-panel-c">
-<h4>Momento de Cierre: Compromisos, Compromiso Mutuo y Reflexión</h4>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Consolidar lo aprendido, promover compromisos de acompañamiento en el hogar y valorar el espacio de encuentro.</li>
-</ul>
-<p><br /></p>
-<ul>
-<li style="text-align: justify;"><strong>Actividades:</strong>
-<ul>
-<li style="text-align: justify;"><strong>Plenaria y Muro de Compromisos: </strong>Cada familia escribe en una tarjeta o 'hoja de cosecha' un compromiso concreto para poner en práctica en casa durante la semana con sus niños (ej.: "Acompañaré a mi hijo a contar y clasificar las verduras cuando regresemos del mercado").</li>
-<li style="text-align: justify;"><strong>Cierre Metacognitivo: </strong>Se invita a reflexionar a través de las siguientes preguntas:
-<ul>
-<li style="text-align: justify;">¿Qué descubrimiento de hoy me llevo para compartir en mi hogar?</li>
-<li style="text-align: justify;">¿De qué manera cambia nuestra visión sobre la enseñanza de las matemáticas con nuestros hijos?</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Evaluación y Agradecimiento: </strong>Se hace una valoración rápida de la jornada (utilizando un semáforo o caritas de satisfacción) y se felicita a las familias por su valioso rol como Coeducadores en la alianza entre la escuela y el hogar.</li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<!-- ================= ESTRATEGIA 4 ================= -->
-<div class="panel-estrategia" id="panel-e4">
-<h3>"Kits Lógicos a Prueba de Invierno"</h3>
-<ul>
-<li style="text-align: justify;"><strong>Actividades: </strong>Elaboración de cartillas impresas y guías de trabajo autónomo manipulable para garantizar la continuidad pedagógica en casa cuando las vías hacia las sedes rurales (La Pampa, La Ventica, El Oso) se vean afectadas por el invierno o la dispersión geográfica. </li>
-</ul>
-<p><span style="font-size: 14pt;"><strong>"Detective de Patrones y Secuencias en mi Guía Impresa"</strong></span></p>
-<p><strong>Recurso Principal: Cartilla/Guía impresa de trabajo autónomo adaptada al entorno rural</strong></p>
-<input type="radio" name="momentos-e4" id="e4i" checked="checked" /> <input type="radio" name="momentos-e4" id="e4d" /> <input type="radio" name="momentos-e4" id="e4c" />
-<div class="tabs-momentos"><label for="e4i">Momento de Inicio</label> <label for="e4d">Momento de Desarrollo</label> <label for="e4c">Momento de Cierre</label></div>
-<div class="panel-momento" id="e4-panel-i">
-<h4>Momento de Inicio: Presentación de la Guía y Descubrimiento del Reto</h4>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Familiarizar a los estudiantes con las guías impresas, activar sus saberes previos sobre patrones y motivar el aprendizaje autónomo de conceptos variacionales.<strong></strong></li>
-</ul>
-<p><strong></strong><br /></p>
-<p><strong>Link de la cartilla digital</strong></p>
-<p><a href="https://heyzine.com/flip-book/f9f8939973.html" target="_blank" rel="noopener"><span style="font-size: 14pt;" title="">https://heyzine.com/flip-book/f9f8939973.html</span></a></p>
-<p><span style="font-size: 14pt;"><strong title=""><iframe width="100" height="400" style="width: 100%; height: 400px; border: 1px solid lightgray;" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen; clipboard-write" scrolling="no" src="https://heyzine.com/flip-book/f9f8939973.html"></iframe></strong></span><br /></p>
-<p><span style="font-size: 14pt;"><strong title="">Actividades:</strong></span></p>
-<ul>
-<li style="text-align: justify;"><span style="font-size: 12pt;"><strong title="">Exploración Visual de la Guía Impresa: </strong>Se entrega el cuadernillo impreso "Mi Cuaderno de Patrones y Secuencias". Los niños hojean las primeras páginas identificando las secciones principales mediante íconos claros (ej.: Investiga, Resuelve, Pista Lógica).</span></li>
-<li style="text-align: justify;"><span style="font-size: 12pt;"><strong title="">Reto Semilla en la Portada: </strong>En la primera página de la guía impresa aparece un reto visual contextualizado (por ejemplo: la secuencia del crecimiento de un cultivo o el llenado de un tanque de agua en la finca:  ). Se abre la pregunta detonante: ¿Qué regla sigue esta secuencia de números y cuál es el dato que falta?</span></li>
-<li style="text-align: justify;"><span style="font-size: 12pt;"><strong title="">Pacto de Cuidado y Orientaciones para la Casa: </strong>Se explica la importancia de proteger las hojas impresas en carpetas impermeables durante las temporadas de lluvias intensas en las sedes rurales, asegurando la continuidad del trabajo en el hogar.</span></li>
-</ul>
-<p><span style="font-size: 14pt;"><strong title=""></strong></span></p>
-</div>
-<div class="panel-momento" id="e4-panel-d">
-<h4>Momento de Desarrollo: Trabajo Guiado, Abstracción de Patrones y Resolución en Papel</h4>
 <p></p>
 <ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Resolver de forma guiada en la guía impresa situaciones de variación, tabulación de datos y deducción de reglas numéricas.</li>
-<li style="text-align: justify;"><strong>Actividades:</strong>
+<li style="text-align: justify;"><span style="font-size: 14pt;"><strong>Formulario:</strong> <a href="https://forms.gle/3Bs3dYtxw1jEfD3H8" target="_blank" title="" rel="noopener">https://forms.gle/3Bs3dYtxw1jEfD3H8</a></span></li>
+</ul>
+<p><span style="font-size: 14pt;"></span></p>
+<p><span style="font-size: 14pt;"><strong>3. Minga Familiar por las Matemáticas:</strong> Promueve la participación de las familias mediante actividades cotidianas de conteo, estimación, clasificación y construcción de patrones relacionados con las cosechas y las labores del hogar.</span></p>
+<p><br /></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>4. Kits Lógicos a Prueba de Invierno: </strong>Propone cartillas impresas y guías de trabajo autónomo para garantizar la continuidad del aprendizaje en las sedes rurales, facilitando la identificación de patrones, secuencias y reglas de variación numérica.</span></p>
 <ul>
-<li style="text-align: justify;"><strong>Modelado de Patrones Numéricos (Aditivos y Multiplicativos):</strong>
-<ul>
-<li style="text-align: justify;">Los estudiantes trabajan en las páginas centrales de la guía analizando secuencias sencillas (ej.:   o  ).</li>
-<li style="text-align: justify;">Utilizan tablas de datos impresas para identificar la constante de cambio: “Aumenta de 5 en 5” o “Se duplica en cada paso”<strong>.</strong></li>
+<li style="text-align: justify;"><span style="font-size: 14pt;"><strong>Cartilla digital: <a href="https://heyzine.com/flip-book/f9f8939973.html" title="">https://heyzine.com/flip-book/f9f8939973.html</a></strong></span></li>
 </ul>
-</li>
-<li style="text-align: justify;"><strong>Paso de lo Concreto a la Abstracción Lógica:</strong>
-<ul>
-<li style="text-align: justify;"><strong>Representación Gráfica y Numérica: </strong>La guía propone gráficos sencillos (torres de puntos o figuras geométricas en crecimiento) que los niños deben traducir a secuencias numéricas escritas directamente en las casillas correspondientes.</li>
-<li style="text-align: justify;"><strong>Identificación de la Regla de Variación: </strong>Escriben en su guía la regla con sus propias palabras (ej.: “Para hallar el siguiente número debo multiplicar por 3 el anterior”).</li>
-</ul>
-</li>
-<li style="text-align: justify;"><strong>Acompañamiento y Estrategias Autónomas: </strong>El docente orienta el uso de la sección impresa "Caja de Pistas", diseñada con ejemplos resueltos paso a paso para que el estudiante pueda consultar y autocorregirse de forma independiente si trabaja desde casa.</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="panel-momento" id="e4-panel-c">
-<h4>Momento de Cierre: Consolidación, Reflexión Metacognitiva y Ruta de Control</h4>
-<p></p>
-<ul>
-<li style="text-align: justify;"><strong>Propósito:</strong> Evaluar la comprensión de las reglas variacionales abordadas en la guía, promover la autoevaluación y consolidar el seguimiento para la entrega.</li>
-<li style="text-align: justify;"><strong>Actividades:</strong></li>
-<li style="text-align: justify;"><strong>Resolución del "Desafío Final de la Guía": </strong>Los niños completan en la última hoja de la sesión una pequeña matriz o autoevaluación donde aplican el patrón aprendido a un problema de contexto cotidiano.</li>
-<li style="text-align: justify;"><strong>Preguntas Metacognitivas:</strong>
-<ul>
-<li style="text-align: justify;">¿Cómo descubriste la regla que cambiaba los números en la tabla de tu guía?</li>
-<li style="text-align: justify;">¿Qué estrategia te funcionó mejor cuando un patrón de la guía parecía difícil?</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<p style="text-align: justify;"><strong>Ruta de Seguimiento en Casa: </strong>Se explica el espacio impreso denominado "Hoja de Control Familiar", donde el estudiante o su acudiente marcará con un sello, firma o carita feliz cada guía completada durante los días de estudio autónomo.</p>
-</div>
-</div>
-</div>
+<p><iframe width="100" height="400" style="width: 942px; height: 397px; border: 1px solid lightgray;" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen; clipboard-write" scrolling="no" src="https://heyzine.com/flip-book/f9f8939973.html"></iframe></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>Propósito general: </strong>Fortalecer las competencias matemáticas mediante experiencias concretas, recursos digitales, participación familiar y materiales impresos que favorezcan el razonamiento, la identificación de patrones y la resolución de situaciones matemáticas en contextos cotidianos y rurales.</span></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-murjlc6v-yt4r13zxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Retos, juegos, preguntas, entre otras</strong></p>\n<p><br /></p>\n<ul></ul>\n<style>\n/* CONTENEDOR GENERAL */\n.estrategias {\n  font-family: Arial, sans-serif;\n  color: #263238;\n  margin: 15px 0;\n}\n\n.estrategias input {\n  display: none;\n}\n\n/* PESTAÑAS PRINCIPALES */\n.estrategias .tabs-principales {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 5px;\n  border-bottom: 3px solid #2879a8;\n}\n\n.estrategias .tabs-principales label {\n  flex: 1 1 130px;\n  text-align: center;\n  padding: 14px 8px;\n  background: #e6edf3;\n  color: #23445b;\n  border-radius: 7px 7px 0 0;\n  cursor: pointer;\n  font-weight: bold;\n}\n\n#e1:checked ~ .tabs-principales label[for=\"e1\"],\n#e2:checked ~ .tabs-principales label[for=\"e2\"],\n#e3:checked ~ .tabs-principales label[for=\"e3\"],\n#e4:checked ~ .tabs-principales label[for=\"e4\"] {\n  background: #2879a8;\n  color: white;\n}\n\n/* CONTENIDOS PRINCIPALES */\n.estrategias .panel-estrategia {\n  display: none;\n  padding: 20px;\n  border: 1px solid #d5dfe6;\n  background: white;\n}\n\n#e1:checked ~ #panel-e1,\n#e2:checked ~ #panel-e2,\n#e3:checked ~ #panel-e3,\n#e4:checked ~ #panel-e4 {\n  display: block;\n}\n\n/* SUBPESTAÑAS */\n.estrategias .tabs-momentos {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 5px;\n  border-bottom: 2px solid #37875c;\n  margin-top: 15px;\n}\n\n.estrategias .tabs-momentos label {\n  flex: 1 1 150px;\n  text-align: center;\n  padding: 12px 8px;\n  background: #e8f2eb;\n  color: #285b3c;\n  cursor: pointer;\n  border-radius: 6px 6px 0 0;\n  font-weight: bold;\n  font-size: 14px;\n}\n\n/* COLORES DE MOMENTOS ACTIVOS */\n#e1i:checked ~ .tabs-momentos label[for=\"e1i\"],\n#e1d:checked ~ .tabs-momentos label[for=\"e1d\"],\n#e1c:checked ~ .tabs-momentos label[for=\"e1c\"],\n#e2i:checked ~ .tabs-momentos label[for=\"e2i\"],\n#e2d:checked ~ .tabs-momentos label[for=\"e2d\"],\n#e2c:checked ~ .tabs-momentos label[for=\"e2c\"],\n#e3i:checked ~ .tabs-momentos label[for=\"e3i\"],\n#e3d:checked ~ .tabs-momentos label[for=\"e3d\"],\n#e3c:checked ~ .tabs-momentos label[for=\"e3c\"],\n#e4i:checked ~ .tabs-momentos label[for=\"e4i\"],\n#e4d:checked ~ .tabs-momentos label[for=\"e4d\"],\n#e4c:checked ~ .tabs-momentos label[for=\"e4c\"] {\n  background: #37875c;\n  color: white;\n}\n\n/* CONTENIDOS DE LOS MOMENTOS */\n.estrategias .panel-momento {\n  display: none;\n  padding: 20px;\n  border: 1px solid #d5dfe6;\n  border-top: none;\n  background: #ffffff;\n  border-radius: 0 0 7px 7px;\n  line-height: 1.6;\n}\n\n#e1i:checked ~ #e1-panel-i,\n#e1d:checked ~ #e1-panel-d,\n#e1c:checked ~ #e1-panel-c,\n#e2i:checked ~ #e2-panel-i,\n#e2d:checked ~ #e2-panel-d,\n#e2c:checked ~ #e2-panel-c,\n#e3i:checked ~ #e3-panel-i,\n#e3d:checked ~ #e3-panel-d,\n#e3c:checked ~ #e3-panel-c,\n#e4i:checked ~ #e4-panel-i,\n#e4d:checked ~ #e4-panel-d,\n#e4c:checked ~ #e4-panel-c {\n  display: block;\n}\n\n.estrategias h3 {\n  color: #2879a8;\n}\n\n.estrategias h4 {\n  color: #37875c;\n}\n\n.estrategias .indicacion {\n  background: #f0f5f8;\n  padding: 12px;\n  border-left: 4px solid #2879a8;\n  margin-top: 10px;\n}\n\n@media(max-width:600px) {\n  .estrategias .tabs-principales label,\n  .estrategias .tabs-momentos label {\n    flex: 1 1 100%;\n  }\n}\n</style>\n<div class=\"estrategias\"><!-- NAVEGACIÓN PRINCIPAL --> <input type=\"radio\" name=\"estrategia\" id=\"e1\" checked=\"checked\" /> <input type=\"radio\" name=\"estrategia\" id=\"e2\" /> <input type=\"radio\" name=\"estrategia\" id=\"e3\" /> <input type=\"radio\" name=\"estrategia\" id=\"e4\" />\n<div class=\"tabs-principales\"><label for=\"e1\">Estrategia 1</label> <label for=\"e2\">Estrategia 2</label> <label for=\"e3\">Estrategia 3</label> <label for=\"e4\">Estrategia 4</label></div>\n<!-- ================= ESTRATEGIA 1 ================= -->\n<div class=\"panel-estrategia\" id=\"panel-e1\">\n<h3 style=\"text-align: center;\"><strong>\"Sembrando Patrones\" (Aprendizaje Basado en Proyectos - ABP y Aula STEAM)</strong></h3>\n<p style=\"text-align: justify;\"><strong></strong><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong> Taller vivencial donde los niños observan la germinación de plantas (fríjol/maíz) para explorar el entorno natural y, de manera paralela, utilizan las semillas y bloques lógicos como material concreto para construir y deducir patrones y secuencias matemáticas (por ejemplo, secuencias numéricas y de ordenación), aclarando que se usan como recurso manipulativo de conteo y estructuración matemática sin afirmar que el crecimiento biológico duplica estrictamente su tamaño o número de hojas cada día.</li>\n</ul>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Metodología:</strong> ABP articulado al Centro de Interés en Ciencias y Tecnología.</li>\n</ul>\n<p><span style=\"font-size: 14pt;\"><strong>Secuencia Didáctica: \"El Secreto de las Semillas y los Números Mágicos\"</strong></span></p>\n<input type=\"radio\" name=\"momentos-e1\" id=\"e1i\" checked=\"checked\" /> <input type=\"radio\" name=\"momentos-e1\" id=\"e1d\" /> <input type=\"radio\" name=\"momentos-e1\" id=\"e1c\" />\n<div class=\"tabs-momentos\"><label for=\"e1i\">Momento de Inicio</label> <label for=\"e1d\">Momento de Desarrollo</label> <label for=\"e1c\">Momento de Cierre</label></div>\n<div class=\"panel-momento\" id=\"e1-panel-i\">\n<h4>Momento de Inicio: Exploración y Motivación</h4>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Activar saberes previos, despertar la curiosidad sobre la naturaleza y conectar a los niños con el reto de construcción de patrones matemáticos a partir de elementos del entorno.</li>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong> \n<ul>\n<li style=\"text-align: justify;\"><strong>La Caja Misteriosa: </strong>Se presenta una caja con semillas de fríjol y maíz, lupas y una pequeña planta germinada. Se invita a los niños a observar la planta y las semillas con la lupa para reflexionar sobre la diversidad de la naturaleza y cómo cada semilla se transforma de forma única.</li>\n<li style=\"text-align: justify;\"><strong>Planteamiento del Reto (ABP):</strong> Se lanza el desafío del taller: \"Hoy seremos científicos y exploradores matemáticos. Observaremos nuestras semillas y plantas, y usaremos las semillas y bloques para construir secuencias y descifrar patrones numéricos que organizaremos en nuestras tablas de trabajo\".</li>\n<li style=\"text-align: justify;\"><strong>Sensibilización: </strong>Breve diálogo sobre el cuidado de las plantas, el ciclo natural del cultivo y el uso del material del entorno para aprender matemáticas.</li>\n</ul>\n</li>\n</ul>\n<p><br /></p>\n</div>\n<div class=\"panel-momento\" id=\"e1-panel-d\">\n<h4>Momento de Desarrollo: Experimentación y Construcción del Saber</h4>\n<p style=\"text-align: justify;\"><strong>Propósito:</strong> Manipular material concreto (semillas y bloques) para construir secuencias organizadas, registrar datos e identificar reglas de cambio en secuencias matemáticas propuestas, distinguiendo la exploración biológica del modelado numérico.</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Estación de Observación y Clasificación: </strong>En pequeños grupos, los estudiantes manipulan germinados y semillas de fríjol y maíz. Observan libremente las diferencias reales entre el germinado y las semillas, registrando cualitativamente sus características (color, forma, textura).</li>\n<li style=\"text-align: justify;\"><strong>Construcción y Modelado de Patrones con Material Concreto: </strong>\n<ul>\n<li style=\"text-align: justify;\">A partir de las semillas y bloques lógicos, el docente propone retos de secuencias numéricas y visuales independientes del ritmo biológico (por ejemplo: patrones aditivos   o juegos de seriación con semillas por color y tamaño).</li>\n<li style=\"text-align: justify;\">Los niños construyen torres con bloques o agrupaciones con semillas para representar visualmente cómo cambia cada figura o número en la secuencia propuesta.</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Registro en la Tabla de Frecuencias/Secuencias:</strong> Con la guía del docente, plasman en una tabla sencilla los datos del patrón numérico construido con las semillas, identificando la regla de cambio o regularidad (por ejemplo: \"aumenta de 2 en 2\" o \"sigue la regla de agregar una semilla más a cada paso\").</li>\n</ul>\n</li>\n</ul>\n</div>\n<div class=\"panel-momento\" id=\"e1-panel-c\">\n<h4>Momento de Cierre: Reflexión y Socialización</h4>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Consolidar los aprendizajes, compartir los hallazgos de las secuencias construidas entre los equipos y evaluar la comprensión de los patrones matemáticos.</li>\n<li><strong>Actividades:</strong>\n<ul>\n<li><strong>Galería de Científicos y Matemáticos:</strong> Cada grupo expone sus arreglos de semillas, torres de bloques y tablas de registro al resto del salón, explicando la regla del patrón que construyeron y qué observaron en sus semillas.</li>\n<li><strong>Preguntas Metacognitivas:</strong>\n<ul>\n<li>¿Cómo nos ayudaron las semillas y los bloques a armar y entender los patrones numéricos?</li>\n<li>¿Qué diferencia hay entre cómo cambia una secuencia numérica en la mesa y cómo crece realmente una planta en la naturaleza?</li>\n</ul>\n</li>\n<li><strong>Puente hacia la siguiente fase del ABP:</strong> Se define la siguiente acción del proyecto (por ejemplo, continuar con el cuidado de los germinados en el huerto escolar y diseñar nuevas secuencias de patrones para la siguiente sesión).</li>\n</ul>\n</li>\n</ul>\n</div>\n</div>\n<!-- ================= ESTRATEGIA 2 ================= -->\n<div class=\"panel-estrategia\" id=\"panel-e2\">\n<h3>Laboratorio Gamificado y OVA Rural</h3>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong> Implementación de un Objeto Virtual de Aprendizaje (OVA) y un juego interactivo en Genially/Forms orientados al pensamiento variacional. </li>\n</ul>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Metodología:</strong> M-Learning y Conectivismo en la sala de informática. </li>\n</ul>\n<p><span style=\"font-size: 18pt;\"><strong>\"El Desafío Digital del Pensamiento Variacional\"</strong></span></p>\n<input type=\"radio\" name=\"momentos-e2\" id=\"e2i\" checked=\"checked\" /> <input type=\"radio\" name=\"momentos-e2\" id=\"e2d\" /> <input type=\"radio\" name=\"momentos-e2\" id=\"e2c\" />\n<div class=\"tabs-momentos\"><label for=\"e2i\">Momento de Inicio</label> <label for=\"e2d\">Momento de Desarrollo</label> <label for=\"e2c\">Momento de Cierre</label></div>\n<div class=\"panel-momento\" id=\"e2-panel-i\">\n<h4>Momento de Inicio: Exploración, Motivación y Encuadre Tecnológico</h4>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Activar la motivación mediante la gamificación, contextualizar la misión en el OVA y garantizar la conectividad/funcionalidad técnica de los dispositivos.</li>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Bienvenida al Laboratorio y Contextualización: </strong>Se presenta a los estudiantes la narrativa o historia gamificada del OVA en Genially (\"misión Guardianes del razonamiento matemático\"). Se plantea el reto central: resolver desafíos numéricos y descubrir patrones de variación para \"desbloquear\" niveles.</li>\n<li style=\"text-align: justify;\"><strong>Verificación de Dispositivos (M-Learning): </strong>En la sala de informática o mediante dispositivos móviles/tabletas, se verifica el acceso al OVA para asegurar una experiencia fluida.</li>\n<li style=\"text-align: justify;\"><strong>Activación de Saberes Previos: </strong>Mediante una dinámica breve en el OVA o pregunta detonante (\"¿Cómo cambian las cosas a nuestro alrededor cuando pasa el tiempo o aumentamos una cantidad?\"), los estudiantes recuerdan conceptos de secuencias, patrones y variación.</li>\n</ul>\n</li>\n</ul>\n</div>\n<div class=\"panel-momento\" id=\"e2-panel-d\" title=\"\">\n<h4>Momento de Desarrollo: Interacción, Gamificación y Conectivismo</h4>\n<ul>\n<li><strong>Propósito:</strong> Manipular el recurso interactivo, resolver los retos del pensamiento variacional de forma colaborativa y afianzar la lógica de cambio y regularidad.</li>\n</ul>\n<p><strong>Link del juego interactivo</strong></p>\n<p><span style=\"font-size: 14pt;\"><a href=\"https://view.genially.com/6ad2af64b1cccafb9e86bcf0\" target=\"_blank\" rel=\"noopener\"><strong title=\"\">https://view.genially.com/6ad2af64b1cccafb9e86bcf0</strong></a></span></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0px; left: 0px; width: 867px; height: 485px;\" title=\"Juego_GuardianesDelRazonamientoMatemático\" frameborder=\"0\" src=\"https://view.genially.com/6ad2af64b1cccafb9e86bcf0\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><strong></strong><br /></p>\n<p><span style=\"font-size: 14pt;\"><strong>Actividades:</strong></span><br /></p>\n<ul>\n<li><strong>Navegación Interactiva por Niveles (OVA en Genially):</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Nivel 1 (Identificación): </strong>Los estudiantes exploran secuencias numéricas y geométricas asociadas a contextos rurales o cotidianos.</li>\n<li style=\"text-align: justify;\"><strong>Nivel 2 (Análisis de Variación): </strong>Resuelven problemas donde identifican reglas de cambio (por ejemplo: relaciones de doble, triple o aumentos constantes) interactuando con elementos clickeables y retroalimentación inmediata.</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Trabajo en Nodos Colaborativos (Conectivismo): </strong>Los estudiantes trabajan en parejas o pequeños equipos frente a los equipos de cómputo o tabletas, discutiendo estrategias para resolver los desafíos antes de marcar sus respuestas en los formularios.</li>\n<li style=\"text-align: justify;\"><strong>Comprobación y Registro en Forms:</strong> Al finalizar las rutas del OVA, completan la autoevaluación o cuestionario interactivo (Google Forms para validar el nivel de dominio alcanzado en el pensamiento variacional.</li>\n</ul>\n<p><br /></p>\n<p><span style=\"font-size: 14pt;\"><strong>Link del formulario:</strong></span></p>\n<span style=\"font-size: 18pt;\"><a href=\"https://forms.gle/3Bs3dYtxw1jEfD3H8\" target=\"_blank\" rel=\"noopener\">https://forms.gle/3Bs3dYtxw1jEfD3H8</a></span>\n<p><br /></p>\n<p><a href=\"https://forms.gle/3Bs3dYtxw1jEfD3H8\" target=\"_blank\" title=\"\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/mceclip2_1.png\" width=\"627\" height=\"530\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a></p>\n</div>\n<div class=\"panel-momento\" id=\"e2-panel-c\">\n<h4>Momento de Cierre: Socialización, Metacognición y Sistematización</h4>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Reflexionar sobre las estrategias matemáticas utilizadas, evaluar el uso de la tecnología y consolidar los aprendizajes del día.</li>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Plenaria e Intercambio de Redes: </strong>Se realiza un círculo de diálogo donde los equipos comparten qué estrategias les permitieron superar los niveles del juego interactivo y qué reglas de variación descubrieron.</li>\n<li style=\"text-align: justify;\">Cierre Metacognitivo: Se formulan preguntas clave para movilizar la reflexión:\n<ul>\n<li style=\"text-align: justify;\">¿Qué pistas del OVA les ayudaron a descubrir cómo variaban los números o patrones?</li>\n<li style=\"text-align: justify;\">¿Cómo nos ayudó el juego digital a entender mejor los cambios y secuencias?</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Sistematización:</strong> El docente recopila las respuestas recibidas (o consolida los archivos de registro de Forms) para evidenciar los avances en pensamiento variacional y felicita al grupo por completar con éxito el laboratorio gamificado.</li>\n</ul>\n</li>\n</ul>\n</div>\n</div>\n<!-- ================= ESTRATEGIA 3 ================= -->\n<div class=\"panel-estrategia\" id=\"panel-e3\">\n<h3>\"Minga Familiar por las Matemáticas\" (Ley 2025 de 2020)</h3>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades: </strong>Encuentros de la Escuela para Familias centrados en dinámicas cotidianas donde los acudientes acompañen el conteo, estimación y patrones de cosecha en el hogar. </li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>\"Matemáticas en Familia: Cosecha, Conteo y Saberes del Hogar\"</strong></span></p>\n<input type=\"radio\" name=\"momentos-e3\" id=\"e3i\" checked=\"checked\" /> <input type=\"radio\" name=\"momentos-e3\" id=\"e3d\" /> <input type=\"radio\" name=\"momentos-e3\" id=\"e3c\" />\n<div class=\"tabs-momentos\"><label for=\"e3i\">Momento de Inicio</label> <label for=\"e3d\">Momento de Desarrollo</label> <label for=\"e3c\">Momento de Cierre</label></div>\n<div class=\"panel-momento\" id=\"e3-panel-i\">\n<h4>Momento de Inicio: Exploración, Acogida y Sensibilización</h4>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Dar la bienvenida a las familias, crear un clima de confianza y reconocer el valor pedagógico de los saberes matemáticos que ya existen en las rutinas del hogar.</li>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Dinámica de Acogida – \"El Canasto de Recuerdos y Saberes\": </strong>Se inicia con una breve dinámicamente participativa donde cada acudiente menciona una actividad cotidiana del hogar o del campo en la que use números, conteos o mediciones (ej.: seleccionar frutas, contar huevos, medir raciones de comida o sembrar).</li>\n<li style=\"text-align: justify;\"><strong>Diálogo Sensibilizador (Alianza Familia-Escuela): </strong>Se conversa sobre cómo las matemáticas no solo están en los cuadernos del colegio, sino en la vida cotidiana. Se proyecta o presenta el propósito del encuentro: Aprender cómo desde la casa podemos potenciar la estimación, el conteo y la identificación de patrones durante las actividades de cosecha o preparación de alimentos.</li>\n<li style=\"text-align: justify;\"><strong>Pregunta Detonante: </strong>\"¿Cómo le enseñamos a nuestras hijas e hijos a 'calcular' o 'estimar' cuando estamos haciendo las compras o clasificando la cosecha en casa?\"</li>\n</ul>\n</li>\n</ul>\n<p style=\"text-align: justify;\"><br /></p>\n</div>\n<div class=\"panel-momento\" id=\"e3-panel-d\">\n<h4>Momento de Desarrollo: Taller Vivencial y Trabajo Práctico</h4>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Vivenciar estrategias concretas de conteo, estimación y patrones utilizando elementos reales del contexto para que los acudientes las repliquen en sus hogares.</li>\n</ul>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades: </strong></li>\n<li style=\"text-align: justify;\"><strong>Estación 1: Estimación y Conteo Rápido (Cosecha/Mercado):</strong>\n<ul>\n<li style=\"text-align: justify;\">Se distribuyen canastos o recipientes con productos del entorno (granos de café, maíz, frutas, verduras o semillas).</li>\n<li style=\"text-align: justify;\">Se invita a los acudientes a hacer <strong>estimaciones visuales </strong>(\"¿Cuántos limones creen que hay aquí sin contarlos uno a uno?\"). Luego realizan agrupamientos (de 2 en 2, de 5 en 5 o de 10 en 10) para facilitar el conteo exacto y reflexionar sobre el razonamiento numérico.</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Estación 2: Reconocimiento de Patrones y Clasificación:</strong>\n<ul>\n<li style=\"text-align: justify;\">Con los mismos elementos, se organizan secuencias y patrones (por ejemplo: organizar productos por tamaño, color o peso; o armar secuencias visuales tipo grande-mediano-pequeño).</li>\n<li style=\"text-align: justify;\">Se muestra cómo este ejercicio entrena el <strong>pensamiento variacional</strong> y la lógica en los niños de manera natural mientras ayudan en las labores del hogar.</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Construcción de la \"Guía de Rutinas Matemáticas en Casa\":</strong> En pequeños grupos, las familias redactan o dibujan ideas sencillas para poner en práctica durante la semana (ej.: contar juntos al desgranar maíz, estimar cuánto pesará un racimo de plátanos, hacer patrones con cubiertos al poner la mesa).</li>\n</ul>\n</div>\n<div class=\"panel-momento\" id=\"e3-panel-c\">\n<h4>Momento de Cierre: Compromisos, Compromiso Mutuo y Reflexión</h4>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Consolidar lo aprendido, promover compromisos de acompañamiento en el hogar y valorar el espacio de encuentro.</li>\n</ul>\n<p><br /></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Plenaria y Muro de Compromisos: </strong>Cada familia escribe en una tarjeta o 'hoja de cosecha' un compromiso concreto para poner en práctica en casa durante la semana con sus niños (ej.: \"Acompañaré a mi hijo a contar y clasificar las verduras cuando regresemos del mercado\").</li>\n<li style=\"text-align: justify;\"><strong>Cierre Metacognitivo: </strong>Se invita a reflexionar a través de las siguientes preguntas:\n<ul>\n<li style=\"text-align: justify;\">¿Qué descubrimiento de hoy me llevo para compartir en mi hogar?</li>\n<li style=\"text-align: justify;\">¿De qué manera cambia nuestra visión sobre la enseñanza de las matemáticas con nuestros hijos?</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Evaluación y Agradecimiento: </strong>Se hace una valoración rápida de la jornada (utilizando un semáforo o caritas de satisfacción) y se felicita a las familias por su valioso rol como Coeducadores en la alianza entre la escuela y el hogar.</li>\n</ul>\n</li>\n</ul>\n</div>\n</div>\n<!-- ================= ESTRATEGIA 4 ================= -->\n<div class=\"panel-estrategia\" id=\"panel-e4\">\n<h3>\"Kits Lógicos a Prueba de Invierno\"</h3>\n<ul>\n<li style=\"text-align: justify;\"><strong>Actividades: </strong>Elaboración de cartillas impresas y guías de trabajo autónomo manipulable para garantizar la continuidad pedagógica en casa cuando las vías hacia las sedes rurales (La Pampa, La Ventica, El Oso) se vean afectadas por el invierno o la dispersión geográfica. </li>\n</ul>\n<p><span style=\"font-size: 14pt;\"><strong>\"Detective de Patrones y Secuencias en mi Guía Impresa\"</strong></span></p>\n<p><strong>Recurso Principal: Cartilla/Guía impresa de trabajo autónomo adaptada al entorno rural</strong></p>\n<input type=\"radio\" name=\"momentos-e4\" id=\"e4i\" checked=\"checked\" /> <input type=\"radio\" name=\"momentos-e4\" id=\"e4d\" /> <input type=\"radio\" name=\"momentos-e4\" id=\"e4c\" />\n<div class=\"tabs-momentos\"><label for=\"e4i\">Momento de Inicio</label> <label for=\"e4d\">Momento de Desarrollo</label> <label for=\"e4c\">Momento de Cierre</label></div>\n<div class=\"panel-momento\" id=\"e4-panel-i\">\n<h4>Momento de Inicio: Presentación de la Guía y Descubrimiento del Reto</h4>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Familiarizar a los estudiantes con las guías impresas, activar sus saberes previos sobre patrones y motivar el aprendizaje autónomo de conceptos variacionales.<strong></strong></li>\n</ul>\n<p><strong></strong><br /></p>\n<p><strong>Link de la cartilla digital</strong></p>\n<p><a href=\"https://heyzine.com/flip-book/f9f8939973.html\" target=\"_blank\" rel=\"noopener\"><span style=\"font-size: 14pt;\" title=\"\">https://heyzine.com/flip-book/f9f8939973.html</span></a></p>\n<p><span style=\"font-size: 14pt;\"><strong title=\"\"><iframe width=\"100\" height=\"400\" style=\"width: 100%; height: 400px; border: 1px solid lightgray;\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; fullscreen; clipboard-write\" scrolling=\"no\" src=\"https://heyzine.com/flip-book/f9f8939973.html\"></iframe></strong></span><br /></p>\n<p><span style=\"font-size: 14pt;\"><strong title=\"\">Actividades:</strong></span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong title=\"\">Exploración Visual de la Guía Impresa: </strong>Se entrega el cuadernillo impreso \"Mi Cuaderno de Patrones y Secuencias\". Los niños hojean las primeras páginas identificando las secciones principales mediante íconos claros (ej.: Investiga, Resuelve, Pista Lógica).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong title=\"\">Reto Semilla en la Portada: </strong>En la primera página de la guía impresa aparece un reto visual contextualizado (por ejemplo: la secuencia del crecimiento de un cultivo o el llenado de un tanque de agua en la finca:  ). Se abre la pregunta detonante: ¿Qué regla sigue esta secuencia de números y cuál es el dato que falta?</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt;\"><strong title=\"\">Pacto de Cuidado y Orientaciones para la Casa: </strong>Se explica la importancia de proteger las hojas impresas en carpetas impermeables durante las temporadas de lluvias intensas en las sedes rurales, asegurando la continuidad del trabajo en el hogar.</span></li>\n</ul>\n<p><span style=\"font-size: 14pt;\"><strong title=\"\"></strong></span></p>\n</div>\n<div class=\"panel-momento\" id=\"e4-panel-d\">\n<h4>Momento de Desarrollo: Trabajo Guiado, Abstracción de Patrones y Resolución en Papel</h4>\n<p></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Resolver de forma guiada en la guía impresa situaciones de variación, tabulación de datos y deducción de reglas numéricas.</li>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Modelado de Patrones Numéricos (Aditivos y Multiplicativos):</strong>\n<ul>\n<li style=\"text-align: justify;\">Los estudiantes trabajan en las páginas centrales de la guía analizando secuencias sencillas (ej.:   o  ).</li>\n<li style=\"text-align: justify;\">Utilizan tablas de datos impresas para identificar la constante de cambio: “Aumenta de 5 en 5” o “Se duplica en cada paso”<strong>.</strong></li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Paso de lo Concreto a la Abstracción Lógica:</strong>\n<ul>\n<li style=\"text-align: justify;\"><strong>Representación Gráfica y Numérica: </strong>La guía propone gráficos sencillos (torres de puntos o figuras geométricas en crecimiento) que los niños deben traducir a secuencias numéricas escritas directamente en las casillas correspondientes.</li>\n<li style=\"text-align: justify;\"><strong>Identificación de la Regla de Variación: </strong>Escriben en su guía la regla con sus propias palabras (ej.: “Para hallar el siguiente número debo multiplicar por 3 el anterior”).</li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><strong>Acompañamiento y Estrategias Autónomas: </strong>El docente orienta el uso de la sección impresa \"Caja de Pistas\", diseñada con ejemplos resueltos paso a paso para que el estudiante pueda consultar y autocorregirse de forma independiente si trabaja desde casa.</li>\n</ul>\n</li>\n</ul>\n</div>\n<div class=\"panel-momento\" id=\"e4-panel-c\">\n<h4>Momento de Cierre: Consolidación, Reflexión Metacognitiva y Ruta de Control</h4>\n<p></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Propósito:</strong> Evaluar la comprensión de las reglas variacionales abordadas en la guía, promover la autoevaluación y consolidar el seguimiento para la entrega.</li>\n<li style=\"text-align: justify;\"><strong>Actividades:</strong></li>\n<li style=\"text-align: justify;\"><strong>Resolución del \"Desafío Final de la Guía\": </strong>Los niños completan en la última hoja de la sesión una pequeña matriz o autoevaluación donde aplican el patrón aprendido a un problema de contexto cotidiano.</li>\n<li style=\"text-align: justify;\"><strong>Preguntas Metacognitivas:</strong>\n<ul>\n<li style=\"text-align: justify;\">¿Cómo descubriste la regla que cambiaba los números en la tabla de tu guía?</li>\n<li style=\"text-align: justify;\">¿Qué estrategia te funcionó mejor cuando un patrón de la guía parecía difícil?</li>\n</ul>\n</li>\n</ul>\n<p></p>\n<p style=\"text-align: justify;\"><strong>Ruta de Seguimiento en Casa: </strong>Se explica el espacio impreso denominado \"Hoja de Control Familiar\", donde el estudiante o su acudiente marcará con un sello, firma o carita feliz cada guía completada durante los días de estudio autónomo.</p>\n</div>\n</div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-murjlc6v-yt4r13zxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\">Las cuatro estrategias propuestas buscan fortalecer el pensamiento variacional y el razonamiento lógico-matemático de los estudiantes de grado quinto de la I.E. Santa Rosa de Lima mediante actividades contextualizadas, prácticas y participativas.</span></p>\n<p><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>1. Sembrando Patrones:</strong> Utiliza semillas, plantas y bloques lógicos para construir secuencias, identificar patrones y reconocer regularidades numéricas mediante la exploración del entorno natural.</span></p>\n<p><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>2. Laboratorio Gamificado y OVA Rural: </strong>Implementa un recurso educativo digital y un juego interactivo en Genially para resolver desafíos de secuencias, patrones y variaciones numéricas, complementados con una autoevaluación en Google Forms.</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Juego interactivo: </strong><a href=\"https://view.genially.com/6ad2af64b1cccafb9e86bcf0\" title=\"\" onclick=\"window.open('https://view.genially.com/6ad2af64b1cccafb9e86bcf0','Juego Interactivo','scrollbars=yes,width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">https://view.genially.com/6ad2af64b1cccafb9e86bcf0</a></span></li>\n</ul>\n<p><br /></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200px\" height=\"675px\" style=\"position: absolute; top: 0px; left: 0px; width: 978px; height: 549px;\" title=\"Juego_GuardianesDelRazonamientoMatemático\" frameborder=\"0\" src=\"https://view.genially.com/6ad2af64b1cccafb9e86bcf0\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\" data-mce-fragment=\"1\"></iframe></div>\n</div>\n<p><br /></p>\n<p><br /></p>\n<p></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Formulario:</strong> <a href=\"https://forms.gle/3Bs3dYtxw1jEfD3H8\" target=\"_blank\" title=\"\" rel=\"noopener\">https://forms.gle/3Bs3dYtxw1jEfD3H8</a></span></li>\n</ul>\n<p><span style=\"font-size: 14pt;\"></span></p>\n<p><span style=\"font-size: 14pt;\"><strong>3. Minga Familiar por las Matemáticas:</strong> Promueve la participación de las familias mediante actividades cotidianas de conteo, estimación, clasificación y construcción de patrones relacionados con las cosechas y las labores del hogar.</span></p>\n<p><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>4. Kits Lógicos a Prueba de Invierno: </strong>Propone cartillas impresas y guías de trabajo autónomo para garantizar la continuidad del aprendizaje en las sedes rurales, facilitando la identificación de patrones, secuencias y reglas de variación numérica.</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Cartilla digital: <a href=\"https://heyzine.com/flip-book/f9f8939973.html\" title=\"\">https://heyzine.com/flip-book/f9f8939973.html</a></strong></span></li>\n</ul>\n<p><iframe width=\"100\" height=\"400\" style=\"width: 942px; height: 397px; border: 1px solid lightgray;\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; fullscreen; clipboard-write\" scrolling=\"no\" src=\"https://heyzine.com/flip-book/f9f8939973.html\"></iframe></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Propósito general: </strong>Fortalecer las competencias matemáticas mediante experiencias concretas, recursos digitales, participación familiar y materiales impresos que favorezcan el razonamiento, la identificación de patrones y la resolución de situaciones matemáticas en contextos cotidianos y rurales.</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1887,10 +1491,10 @@
           <odeIdeviceId>idevice-1790908461404-iwje4zuth</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><strong>Interactividad del Recurso Educativo Digital (RED):</strong></p>
-<p style="text-align: justify;">Botones interactivos por niveles, elementos desplegables/clickeables con pistas lógicas, navegación libre y adaptativa, y enlace a cuestionario digital.</p>
+    <p><span style="font-size: 14pt;"><strong>Interactividad del Recurso Educativo Digital (RED):</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Botones interactivos por niveles, elementos desplegables/clickeables con pistas lógicas, navegación libre y adaptativa, y enlace a cuestionario digital.</span></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908461404-iwje4zuth","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Interactividad del Recurso Educativo Digital (RED):</strong></p>\n<p style=\"text-align: justify;\">Botones interactivos por niveles, elementos desplegables/clickeables con pistas lógicas, navegación libre y adaptativa, y enlace a cuestionario digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908461404-iwje4zuth","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt;\"><strong>Interactividad del Recurso Educativo Digital (RED):</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\">Botones interactivos por niveles, elementos desplegables/clickeables con pistas lógicas, navegación libre y adaptativa, y enlace a cuestionario digital.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1950,10 +1554,290 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+  <odeParentPageId>page-murjpdbp-0shxhdwwy</odeParentPageId>
+  <pageName>✓ Evaluación Final</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>✓ Evaluación Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>✓ Evaluación Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>✓ Evaluación Final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+      <odeBlockId>block-mw8k0swl-ft4fk0qux</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-app_registration</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+          <odeBlockId>block-mw8k0swl-ft4fk0qux</odeBlockId>
+          <odeIdeviceId>idevice-mw8k0swl-xqbdy1rq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-size: 18pt;">¡Bienvenidos, Guardianes del Razonamiento Matemático!</span></strong></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;">Ha llegado el momento de poner a prueba tus habilidades matemáticas. A través de divertidos desafíos, descubrirás patrones, completarás secuencias, resolverás operaciones básicas y relacionarás conceptos. Lee atentamente, piensa, analiza y demuestra todo lo que has aprendido. </span></p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt;">¡Prepárate para aprender jugando y convertirte en un verdadero guardián de las matemáticas!</span></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mw8k0swl-xqbdy1rq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-size: 18pt;\">¡Bienvenidos, Guardianes del Razonamiento Matemático!</span></strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\">Ha llegado el momento de poner a prueba tus habilidades matemáticas. A través de divertidos desafíos, descubrirás patrones, completarás secuencias, resolverás operaciones básicas y relacionarás conceptos. Lee atentamente, piensa, analiza y demuestra todo lo que has aprendido. </span></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt;\">¡Prepárate para aprender jugando y convertirte en un verdadero guardián de las matemáticas!</span></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+      <odeBlockId>block-mw8k3cyq-goonh1azr</odeBlockId>
+      <blockName>Sopa de letras</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+          <odeBlockId>block-mw8k3cyq-goonh1azr</odeBlockId>
+          <odeIdeviceId>idevice-1794186123361-ot4pnw08g</odeIdeviceId>
+          <odeIdeviceTypeName>word-search</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="sopa-IDevice">
+        <div class="game-evaluation-ids js-hidden" data-id="idevice-1794186123361-ot4pnw08g" data-evaluationb="false" data-evaluationid="ea30a1af-da6f-45c1-a576-11bab2004bad"></div>
+                <div class="sopa-version js-hidden">2</div>
+                 <div class="sopa-instructions"><p style="text-align: center;"><span style="font-size: 14pt;"><strong>🔎 Sopa de letras: Guardianes del Razonamiento Matemático</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>Instrucciones:</strong> Encuentra las 12 palabras escondidas en la sopa de letras. Pueden estar en sentido horizontal, vertical o diagonal. Lee las pistas y demuestra tus habilidades como guardián del razonamiento matemático.</span></p>
+<p><span style="font-size: 14pt;"><img src="{{context_path}}/content/resources/Icono_SopaDeLetrasMatemáticaalAireLibre.png" width="323" height="215" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p></div>
+                <div class="sopa-feedback-game"></div>              
+                <div class="sopa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%AE%E1%E6%E0%FD%FC%F5%AC%uD8AF%uDD9C%B2%C1%FD%E2%F3%B2%F6%F7%B2%FE%F7%E6%E0%F3%E1%A8%B2%D5%E7%F3%E0%F6%FB%F3%FC%F7%E1%B2%F6%F7%FE%B2%C0%F3%E8%FD%FC%F3%FF%FB%F7%FC%E6%FD%B2%DF%F3%E6%F7%FFs%E6%FB%F1%FD%AE%BD%E1%E6%E0%FD%FC%F5%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F8%E7%E1%E6%FB%F4%EB%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%AE%E1%E6%E0%FD%FC%F5%AC%DB%FC%E1%E6%E0%E7%F1%F1%FB%FD%FC%F7%E1%A8%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%D7%FC%F1%E7%F7%FC%E6%E0%F3%B2%FE%F3%E1%B2%A3%A0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%F7%E1%F1%FD%FC%F6%FB%F6%F3%E1%B2%F7%FC%B2%FE%F3%B2%E1%FD%E2%F3%B2%F6%F7%B2%FE%F7%E6%E0%F3%E1%BC%B2%C2%E7%F7%F6%F7%FC%B2%F7%E1%E6%F3%E0%B2%F7%FC%B2%E1%F7%FC%E6%FB%F6%FD%B2%FA%FD%E0%FB%E8%FD%FC%E6%F3%FE%BE%B2%E4%F7%E0%E6%FB%F1%F3%FE%B2%FD%B2%F6%FB%F3%F5%FD%FC%F3%FE%BC%B2%DE%F7%F7%B2%FE%F3%E1%B2%E2%FB%E1%E6%F3%E1%B2%EB%B2%F6%F7%FF%E7%F7%E1%E6%E0%F3%B2%E6%E7%E1%B2%FA%F3%F0%FB%FE%FB%F6%F3%F6%F7%E1%B2%F1%FD%FF%FD%B2%F5%E7%F3%E0%F6%FBs%FC%B2%F6%F7%FE%B2%E0%F3%E8%FD%FC%F3%FF%FB%F7%FC%E6%FD%B2%FF%F3%E6%F7%FFs%E6%FB%F1%FD%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%CE%FC%AE%E2%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%AE%FB%FF%F5%B2%E1%E0%F1%AF%CE%B0%F3%E1%E1%F7%E6%A8%BD%BD%A4%F1%A7%A3%A4%A1%A0%F7%BF%AA%A5%AA%A1%BF%A5%F7%A1%A3%BF%F0%A1%A2%A4%BF%F6%A5%F6%F1%F6%A6%A6%A7%A7%F0%A0%A5%CE%B0%B2%E5%FB%F6%E6%FA%AF%CE%B0%A1%A0%A1%CE%B0%B2%FA%F7%FB%F5%FA%E6%AF%CE%B0%A0%A3%A7%CE%B0%B2%F3%FE%E6%AF%CE%B0%CE%B0%B2%E1%E6%EB%FE%F7%AF%CE%B0%F6%FB%E1%E2%FE%F3%EB%A8%B2%F0%FE%FD%F1%F9%A9%B2%FF%F3%E0%F5%FB%FC%BF%FE%F7%F4%E6%A8%B2%F3%E7%E6%FD%A9%B2%FF%F3%E0%F5%FB%FC%BF%E0%FB%F5%FA%E6%A8%B2%F3%E7%E6%FD%A9%CE%B0%B2%BD%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%D7%D1%C7%D7%DC%D1%DB%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%D7%D1%C7%D7%DC%D1%DB%D3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%D3%C6%C0%DD%DC%D7%C1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%D3%C6%C0%DD%DC%D7%C1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%C7%DF%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%C7%DF%D3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C0%D7%C1%C6%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C0%D7%C1%C6%D3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%C7%DE%C6%DB%C2%DE%DB%D1%D3%C0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%C7%DE%C6%DB%C2%DE%DB%D1%D3%C0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D6%DB%C4%DB%C1%DBA%DC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%DB%C4%DB%C1%DBA%DC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DCH%DF%D7%C0%DD%C1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DCH%DF%D7%C0%DD%C1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C0%D7%D5%C7%DE%D3%C0%DB%D6%D3%D6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C0%D7%D5%C7%DE%D3%C0%DB%D6%D3%D6%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DD%C2%D7%C0%D3%D1%DB%DD%DC%D7%C1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DD%C2%D7%C0%D3%D1%DB%DD%DC%D7%C1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DEA%D5%DB%D1%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DEA%D5%DB%D1%D3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D3%DCS%DE%DB%C1%DB%C1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%DCS%DE%DB%C1%DB%C1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%D3%C6%D7%DFS%C6%DB%D1%D3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%D3%C6%D7%DFS%C6%DB%D1%D3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A3%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A4%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%F3%A1%A2%F3%A3%F3%F4%BF%F6%F3%A4%F4%BF%A6%A7%F1%A3%BF%F3%A7%A5%A4%BF%A3%A3%F0%F3%F0%A0%A2%A2%A6%F0%F3%F6%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A6%A3%AA%A4%A3%A0%A1%A1%A4%A3%BF%FD%E6%A6%E2%FC%E5%A2%AA%F5%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%EB%F3%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D3%F1%F3%F0a%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%F6%F7%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%DF%F3%FC%EB%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%F7%FC%E6%F3%B2%F1%FD%FC%B2%FF%F7%FC%FD%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D0%E7%E1%F1%F3%E0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%EF%EF</div>
+                
+                
+                
+                <div class="sopa-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+                </div> ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+      <odeBlockId>block-mw8krv40-577av5vgc</odeBlockId>
+      <blockName>Completa las frases</blockName>
+      <iconName>mi-vertical_distribute</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+          <odeBlockId>block-mw8krv40-577av5vgc</odeBlockId>
+          <odeIdeviceId>idevice-1794187266619-47htls7w7</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1794187266619-47htls7w7" data-evaluationb="false" data-evaluationid="ea30a1af-da6f-45c1-a576-11bab2004bad"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p style="text-align: center;"><strong><span style="font-size: 14pt;">Completa las frases: Guardianes del Razonamiento Matemático</span></strong></p>
+<p style="text-align: justify;"><strong><span style="font-size: 14pt;">Instrucción: </span></strong><span style="font-size: 14pt;">Lee atentamente cada frase y completa el espacio vacío con la palabra correcta.</span></p>
+<p><span style="font-size: 14pt;"><img src="{{context_path}}/content/resources/Icono_Guardianes del razonamiento matemático.png" width="323" height="215" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F1%F7%FC%E6%F7%E0%A9%CE%B0%AC%AE%E1%E6%E0%FD%FC%F5%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%D1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%F4%E0%F3%E1%F7%E1%A8%B2%D5%E7%F3%E0%F6%FB%F3%FC%F7%E1%B2%F6%F7%FE%B2%C0%F3%E8%FD%FC%F3%FF%FB%F7%FC%E6%FD%B2%DF%F3%E6%F7%FFs%E6%FB%F1%FD%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E6%E0%FD%FC%F5%AC%AE%BD%E2%AC%CE%FC%AE%E2%B2%E1%E6%EB%FE%F7%AF%CE%B0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%A8%B2%F8%E7%E1%E6%FB%F4%EB%A9%CE%B0%AC%AE%E1%E6%E0%FD%FC%F5%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%DB%FC%E1%E6%E0%E7%F1%F1%FBa%FC%A8%B2%AE%BD%E1%E2%F3%FC%AC%AE%BD%E1%E6%E0%FD%FC%F5%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%DE%F7%F7%B2%F3%E6%F7%FC%E6%F3%FF%F7%FC%E6%F7%B2%F1%F3%F6%F3%B2%F4%E0%F3%E1%F7%B2%EB%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%F7%FE%B2%F7%E1%E2%F3%F1%FB%FD%B2%E4%F3%F1%7F%FD%B2%F1%FD%FC%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%CE%FC%AE%E2%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A6%E2%E6%A9%CE%B0%AC%AE%FB%FF%F5%B2%E1%E0%F1%AF%CE%B0%F3%E1%E1%F7%E6%A8%BD%BD%A4%A3%A7%AB%AB%A5%A4%A7%BF%AB%F4%A7%A1%BF%AB%A1%F3%A5%BF%A0%A3%A4%F6%BF%A1%A0%AA%F0%A0%F6%AA%A4%A4%F1%A0%A4%BC%E2%FC%F5%CE%B0%B2%E5%FB%F6%E6%FA%AF%CE%B0%A1%A0%A1%CE%B0%B2%FA%F7%FB%F5%FA%E6%AF%CE%B0%A0%A3%A7%CE%B0%B2%F3%FE%E6%AF%CE%B0%CE%B0%B2%E1%E6%EB%FE%F7%AF%CE%B0%F6%FB%E1%E2%FE%F3%EB%A8%B2%F0%FE%FD%F1%F9%A9%B2%FF%F3%E0%F5%FB%FC%BF%FE%F7%F4%E6%A8%B2%F3%E7%E6%FD%A9%B2%FF%F3%E0%F5%FB%FC%BF%E0%FB%F5%FA%E6%A8%B2%F3%E7%E6%FD%A9%CE%B0%B2%BD%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%A6%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%A6%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%A3%BC%B7%A0%A2%C7%FC%F3%B7%A0%A2%D2%D2%E1%F7%F1%E7%F7%FC%F1%FB%F3%D2%D2%B7%A0%A2%F7%E1%B7%A0%A2%E7%FC%B7%A0%A2%F1%FD%FC%F8%E7%FC%E6%FD%B7%A0%A2%F6%F7%B7%A0%A2%FC%B7%D4%D3%FF%F7%E0%FD%E1%B7%A0%A2%E3%E7%F7%B7%A0%A2%E1%FB%F5%E7%F7%FC%B7%A0%A2%E7%FC%B7%A0%A2%FD%E0%F6%F7%FC%B7%A0%A2%F6%F7%E6%F7%E0%FF%FB%FC%F3%F6%FD%BC%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%A6%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%A0%BC%B7%A0%A2%DE%FD%E1%B7%A0%A2%D2%D2%E2%F3%E6%E0%FD%FC%F7%E1%D2%D2%B7%A0%A2%FC%FD%E1%B7%A0%A2%F3%EB%E7%F6%F3%FC%B7%A0%A2%F3%B7%A0%A2%F6%F7%E1%F1%E7%F0%E0%FB%E0%B7%A0%A2%E3%E7%B7%D7%AB%B7%A0%A2%FC%B7%D4%D3%FF%F7%E0%FD%B7%A0%A2%F1%FD%FC%E6%FB%FC%B7%D4%D3%F3%B7%A0%A2%F7%FC%B7%A0%A2%E7%FC%F3%B7%A0%A2%E1%F7%F1%E7%F7%FC%F1%FB%F3%BC%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%A6%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%A1%BC%B7%A0%A2%DE%F3%B7%A0%A2%D2%D2%E1%E7%FF%F3%D2%D2%B7%A0%A2%F7%E1%B7%A0%A2%FE%F3%B7%A0%A2%FD%E2%F7%E0%F3%F1%FB%B7%D4%A1%FC%B7%A0%A2%E3%E7%F7%B7%A0%A2%E2%F7%E0%FF%FB%E6%F7%B7%A0%A2%E0%F7%E7%FC%FB%E0%B7%A0%A2%F6%FD%E1%B7%A0%A2%FD%B7%A0%A2%FF%B7%D7%A3%E1%B7%A0%A2%F1%F3%FC%E6%FB%F6%F3%F6%F7%E1%BC%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%A6%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%A6%BC%B7%A0%A2%DE%F3%B7%A0%A2%D2%D2%F6%FB%E4%FB%E1%FB%B7%D4%A1%FC%D2%D2%B7%A0%A2%E2%F7%E0%FF%FB%E6%F7%B7%A0%A2%E0%F7%E2%F3%E0%E6%FB%E0%B7%A0%A2%E7%FC%F3%B7%A0%A2%F1%F3%FC%E6%FB%F6%F3%F6%B7%A0%A2%F7%FC%B7%A0%A2%E2%F3%E0%E6%F7%E1%B7%A0%A2%FB%F5%E7%F3%FE%F7%E1%BC%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%E1%FB%E8%F7%B7%A1%D3%B7%A0%A2%A3%A6%E2%E6%B7%A1%D0%B7%A0%A0%B7%A1%D7%A7%BC%B7%A0%A2%DE%F3%B7%A0%A2%D2%D2%E0%F7%E1%E6%F3%D2%D2%B7%A0%A2%F1%FD%FC%E1%FB%E1%E6%F7%B7%A0%A2%F7%FC%B7%A0%A2%E3%E7%FB%E6%F3%E0%B7%A0%A2%E7%FC%F3%B7%A0%A2%F1%F3%FC%E6%FB%F6%F3%F6%B7%A0%A2%F6%F7%B7%A0%A2%FD%E6%E0%F3%BC%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A3%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%B0%A8%A7%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A1%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F7%F3%A1%A2%F3%A3%F3%F4%BF%F6%F3%A4%F4%BF%A6%A7%F1%A3%BF%F3%A7%A5%A4%BF%A3%A3%F0%F3%F0%A0%A2%A2%A6%F0%F3%F6%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AB%A6%A3%AA%A5%A0%A4%A4%A4%A3%AB%BF%A6%A5%FA%E6%FE%E1%A5%E5%A5%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p><span style="font-size: 14pt;"></span><br /></p>
+<p><span style="font-size: 14pt;">1. Una @@secuencia@@ es un conjunto de números que siguen un orden determinado.</span></p>
+<p><span style="font-size: 14pt;">2. Los @@patrones@@ nos ayudan a descubrir qué número continúa en una secuencia.</span></p>
+<p><span style="font-size: 14pt;">3. La @@suma@@ es la operación que permite reunir dos o más cantidades.</span></p>
+<p><span style="font-size: 14pt;">4. La @@división@@ permite repartir una cantidad en partes iguales.</span></p>
+<p><span style="font-size: 14pt;">5. La @@resta@@ consiste en quitar una cantidad de otra.</span></p>
+<p><br /></p></div><div class="cmpt-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+      <odeBlockId>block-mw8l49sy-hb3tmylx0</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName>mi-compare_arrows</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw8k0swk-kr36stsze</odePageId>
+          <odeBlockId>block-mw8l49sy-hb3tmylx0</odeBlockId>
+          <odeIdeviceId>idevice-1794187845538-k0gg8qvps</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p style="text-align: center;"><span style="font-size: 14pt;"><strong>Relaciona las operaciones matemáticas</strong></span></p>
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>Instrucción: </strong>Une cada operación de la columna A con su definición correspondiente en la columna B.</span><span style="font-size: 14pt;"></span></p>
+<p><span style="font-size: 14pt;"><img src="{{context_path}}/content/resources/Icono_Guardianes del Razonamiento Matemático_3.png" width="302" height="201" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong>Relaciona las operaciones matemáticas</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\"><strong>Instrucción: </strong>Une cada operación de la columna A con su definición correspondiente en la columna B.</span><span style=\"font-size: 14pt;\"></span></p>\n<p><span style=\"font-size: 14pt;\"><img src=\"{{context_path}}/content/resources/Icono_Guardianes del Razonamiento Matemático_3.png" width=\"302\" height=\"201\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/SIGNO_SUMA.jpg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Suma","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Reunir%20dos%20o%20m%C3%A1s%20cantidades"},{"url":"{{context_path}}/content/resources/SIGNO_RESTA.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Resta","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Quitar%20una%20cantidad%20de%20otra"},{"url":"{{context_path}}/content/resources/SIGNO_POR.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Multiplicaci%C3%B3n","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Sumar%20varias%20veces%20una%20misma%20cantidad"},{"url":"{{context_path}}/content/resources/SIGNO_DIVISION.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Divisi%C3%B3n","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Repartir%20en%20partes%20iguales"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":1,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"ea30a1af-da6f-45c1-a576-11bab2004bad","id":"idevice-1794187845538-k0gg8qvps","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1794187845538-k0gg8qvps" data-evaluationb="false" data-evaluationid="ea30a1af-da6f-45c1-a576-11bab2004bad"></div><a href="{{context_path}}/content/resources/SIGNO_SUMA.jpg" class="js-hidden relaciona-LinkImages">0</a><a href="{{context_path}}/content/resources/SIGNO_RESTA.png" class="js-hidden relaciona-LinkImages">1</a><a href="{{context_path}}/content/resources/SIGNO_POR.png" class="js-hidden relaciona-LinkImages">2</a><a href="{{context_path}}/content/resources/SIGNO_DIVISION.png" class="js-hidden relaciona-LinkImages">3</a><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-muq8fn3l-4f455gunh</odePageId>
   <odeParentPageId>page-murjpdbp-0shxhdwwy</odeParentPageId>
   <pageName>Realimentaciones</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2020,10 +1904,10 @@
           <odeIdeviceId>idevice-1790908338220-vfnl4t06t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: justify;">Retroalimentación inmediata en la plataforma Genially al interactuar con elementos clickeables y respuestas del formulario. Cierre metacognitivo en plenaria donde se analizan las pistas del OVA y las estrategias utilizadas para descubrir las reglas de variación.</p>
-<p></p>
+    <p style="text-align: justify;"><span style="font-size: 14pt;">Retroalimentación inmediata en la plataforma Genially al interactuar con elementos clickeables y respuestas del formulario. Cierre metacognitivo en plenaria donde se analizan las pistas del OVA y las estrategias utilizadas para descubrir las reglas de variación.</span></p>
+<p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908338220-vfnl4t06t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Retroalimentación inmediata en la plataforma Genially al interactuar con elementos clickeables y respuestas del formulario. Cierre metacognitivo en plenaria donde se analizan las pistas del OVA y las estrategias utilizadas para descubrir las reglas de variación.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908338220-vfnl4t06t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 14pt;\">Retroalimentación inmediata en la plataforma Genially al interactuar con elementos clickeables y respuestas del formulario. Cierre metacognitivo en plenaria donde se analizan las pistas del OVA y las estrategias utilizadas para descubrir las reglas de variación.</span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2048,7 +1932,7 @@
   <odePageId>page-muq8gm40-w21ggraxh</odePageId>
   <odeParentPageId>page-murjpdbp-0shxhdwwy</odeParentPageId>
   <pageName>Enlace del RED creado en LabINNOVA</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2117,11 +2001,12 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><strong>Link del RED</strong> </p>
 <p><br /></p>
-<p><span style="font-size: 18pt;"><a href="https://aventurasdelasvocales.netlify.app/" title="">https://aventurasdelasvocales.netlify.app/</a></span></p>
-<p><span style="font-size: 18pt;"></span><br /></p>
-<p><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/mceclip0.jpg" width="782" height="437" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 18pt;"><a href="https://webaventuramatematica.netlify.app/" target="_blank" title="" rel="noopener">https://webaventuramatematica.netlify.app/</a></span></p>
+<p><span style="font-size: 18pt;"></span></p>
+<p><br /></p>
+<p><a href="https://webaventuramatematica.netlify.app/" target="_blank" title="" rel="noopener"><img src="{{context_path}}/content/resources/mceclip0.jpg" width="537" height="300" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908691066-5mx9heru8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Link del RED</strong> </p>\n<p><br /></p>\n<p><span style=\"font-size: 18pt;\"><a href=\"https://aventurasdelasvocales.netlify.app/\" title=\"\">https://aventurasdelasvocales.netlify.app/</a></span></p>\n<p><span style=\"font-size: 18pt;\"></span><br /></p>\n<p><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" width=\"782\" height=\"437\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908691066-5mx9heru8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Link del RED</strong> </p>\n<p><br /></p>\n<p><span style=\"font-size: 18pt;\"><a href=\"https://webaventuramatematica.netlify.app/\" target=\"_blank\" title=\"\" rel=\"noopener\">https://webaventuramatematica.netlify.app/</a></span></p>\n<p><span style=\"font-size: 18pt;\"></span></p>\n<p><br /></p>\n<p><a href=\"https://webaventuramatematica.netlify.app/\" target=\"_blank\" title=\"\" rel=\"noopener\"><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" width=\"537\" height=\"300\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -2220,32 +2105,32 @@
 <td style="width: 49.9795%; text-align: center; background-color: #3598db; height: 37.6px;"><strong><span style="color: #ecf0f1;">Licenciatura</span></strong></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;">1. Iris Yelizza Quiñones Quiñones</td>
-<td style="width: 49.9795%; height: 37.6px;">Licenciatura en Educación Infantil</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">1. Iris Yelizza Quiñones Quiñones</span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Licenciatura en Educación Infantil</span></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;">2. Julieth Caterine Acosta Samboni</td>
-<td style="width: 49.9795%; height: 37.6px;">Licenciatura en Educación Infantil</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">2. Julieth Caterine Acosta Samboni</span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Licenciatura en Educación Infantil</span></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;">3. Marly Yurany Rivera Quilindo</td>
-<td style="width: 49.9795%; height: 37.6px;">Licenciatura en Educación Infantil</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">3. Marly Yurany Rivera Quilindo</span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Licenciatura en Educación Infantil</span></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;">4. Paola Andrea Agredo Gómez</td>
-<td style="width: 49.9795%; height: 37.6px;">Licenciatura en Educación Infantil</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">4. Paola Andrea Agredo Gómez</span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Licenciatura en Educación Infantil</span></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;">5. Yury Maricel Chilito Muñoz</td>
-<td style="width: 49.9795%; height: 37.6px;">Licenciatura en Educación Infantil</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">5. Yury Maricel Chilito Muñoz</span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Licenciatura en Educación Infantil</span></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;"><strong>Curso</strong></td>
-<td style="width: 49.9795%; height: 37.6px;">Administración y gestión Educativa – 500001-2204</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;"><strong>Curso</strong></span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Administración y gestión Educativa – 500001-2204</span></td>
 </tr>
 <tr style="height: 37.6px;">
-<td style="width: 49.9795%; height: 37.6px;"><strong>Docente de acompañamiento UNAD</strong></td>
-<td style="width: 49.9795%; height: 37.6px;">Jermisón Andrés Beltran Monroy</td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;"><strong>Docente de acompañamiento UNAD</strong></span></td>
+<td style="width: 49.9795%; height: 37.6px;"><span style="font-size: 14pt;">Jermisón Andrés Beltran Monroy</span></td>
 </tr>
 </tbody>
 </table>
@@ -2255,7 +2140,7 @@
 <p><br /></p>
 <p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908727275-87qbih4un","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.959%; background-color: #c2e0f4; border-color: #3598db; height: 300.8px;\">\n<tbody>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; text-align: center; background-color: #3598db; height: 37.6px;\"><strong><span style=\"color: #ecf0f1;\">Nombre del estudiante</span></strong></td>\n<td style=\"width: 49.9795%; text-align: center; background-color: #3598db; height: 37.6px;\"><strong><span style=\"color: #ecf0f1;\">Licenciatura</span></strong></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\">1. Iris Yelizza Quiñones Quiñones</td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Licenciatura en Educación Infantil</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\">2. Julieth Caterine Acosta Samboni</td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Licenciatura en Educación Infantil</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\">3. Marly Yurany Rivera Quilindo</td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Licenciatura en Educación Infantil</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\">4. Paola Andrea Agredo Gómez</td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Licenciatura en Educación Infantil</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\">5. Yury Maricel Chilito Muñoz</td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Licenciatura en Educación Infantil</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><strong>Curso</strong></td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Administración y gestión Educativa – 500001-2204</td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><strong>Docente de acompañamiento UNAD</strong></td>\n<td style=\"width: 49.9795%; height: 37.6px;\">Jermisón Andrés Beltran Monroy</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>  </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790908727275-87qbih4un","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.959%; background-color: #c2e0f4; border-color: #3598db; height: 300.8px;\">\n<tbody>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; text-align: center; background-color: #3598db; height: 37.6px;\"><strong><span style=\"color: #ecf0f1;\">Nombre del estudiante</span></strong></td>\n<td style=\"width: 49.9795%; text-align: center; background-color: #3598db; height: 37.6px;\"><strong><span style=\"color: #ecf0f1;\">Licenciatura</span></strong></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">1. Iris Yelizza Quiñones Quiñones</span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Licenciatura en Educación Infantil</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">2. Julieth Caterine Acosta Samboni</span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Licenciatura en Educación Infantil</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">3. Marly Yurany Rivera Quilindo</span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Licenciatura en Educación Infantil</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">4. Paola Andrea Agredo Gómez</span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Licenciatura en Educación Infantil</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">5. Yury Maricel Chilito Muñoz</span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Licenciatura en Educación Infantil</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\"><strong>Curso</strong></span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Administración y gestión Educativa – 500001-2204</span></td>\n</tr>\n<tr style=\"height: 37.6px;\">\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\"><strong>Docente de acompañamiento UNAD</strong></span></td>\n<td style=\"width: 49.9795%; height: 37.6px;\"><span style=\"font-size: 14pt;\">Jermisón Andrés Beltran Monroy</span></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>  </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
